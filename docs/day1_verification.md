@@ -44,8 +44,24 @@ ConvNeXt V2 Atto has 3,388,042 parameters with the two-class head. That head is 
 
 These hashes identify the downloaded artifacts for later comparison; they are not independent signatures. Model weights and caches are excluded by `.gitignore`.
 
+## Team Member 2 reproduction check
+
+On November 24, 2026, a separate fresh local clone of the committed repository was tested with a new Python 3.12.14 virtual environment. It did not reuse the project's installed packages or downloaded model weights. The documented CPU install order was followed: install `torch==2.14.1`/`torchvision==0.29.1` from the CPU wheel index, then `requirements.txt`.
+
+- Installed PyTorch reported `2.14.1+cpu`, with no CUDA runtime; dependency installation did not replace it with a GPU build.
+- `pip check` and all 17 dependency imports passed.
+- CPU arithmetic and configuration checks passed.
+- All five tests passed, including Streamlit app startup.
+- YOLO weights downloaded into the clone and CPU inference passed on the blank smoke input.
+- ConvNeXt pretrained weights downloaded into the clone and CPU inference returned finite output of shape `(1, 2)`.
+- Internal links in the new onboarding and collaboration guides resolved.
+
+This verifies a fresh Linux CPU installation on this host. Windows/macOS commands are documented but have not been executed on those operating systems. The teammate's account access, actual hardware, and review of the proposed interface still need confirmation. The temporary clone and test environment were removed after verification; the working GPU environment was retained.
+
 ## Remaining project work
 
-The Day 1 local environment and upload skeleton are ready. The user will handle GitHub manually; no `.git` directory, repository, commit, remote, or push was created. No datasets were downloaded. Dataset selection, real-photo inspection, training, extraction, multiview fusion, uncertainty validation and application integration remain later-day work.
+The Day 1 local environment and upload skeleton are ready. The initial environment setup did not create or push a repository. Subsequently, the user initialized and uploaded the project; the pre-existing GitHub history was merged locally. A later review confirmed local `main` and `origin/main` matched at `fe5c2f8`. The onboarding documentation added afterward still needs a separate commit and push by the user.
+
+No datasets were downloaded. Dataset selection, real-photo inspection, training, extraction, multiview fusion, uncertainty validation and application integration remain later-day work. Team Member 2 should begin with [the onboarding guide](team_member_2_onboarding.md).
 
 See `README.md` for launch/reproduction instructions, `docs/interface_contract.md` for the proposed teammate handoff and `docs/dataset_sources.md` for the Day 2 worksheet.

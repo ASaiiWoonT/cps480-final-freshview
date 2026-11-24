@@ -2,6 +2,19 @@
 
 Multiview produce identification, segmentation, and visible-condition assessment for CPS480.
 
+## Team Member 2: start here
+
+Repository: [ASaiiWoonT/cps480-final-freshview](https://github.com/ASaiiWoonT/cps480-final-freshview).
+
+Follow the [Team Member 2 onboarding guide](docs/team_member_2_onboarding.md) for access, cloning, Windows/macOS/Linux installation, verification, and your first contribution. A GPU is not required for app development. Use [CONTRIBUTING.md](CONTRIBUTING.md) for branches, updates and pull requests.
+
+Clone the existing repository; do not create a second repository or run `git init`:
+
+```bash
+git clone https://github.com/ASaiiWoonT/cps480-final-freshview.git
+cd cps480-final-freshview
+```
+
 ## Day 1 status
 
 This is an environment and interface starter, not a trained freshness system. The app accepts 1–3 JPEG/PNG views of the same item and previews them. YOLO11 Nano Segmentation and ConvNeXt V2 Atto have separate verification scripts. The new two-class condition head requires training before its output can be used.
@@ -94,11 +107,13 @@ Inspect annotated output in `results/smoke/yolo*`. The confidence threshold of 0
 
 `src.pipeline.analyze_image` returns `not_ready` with no fabricated predictions. The proposed eventual interface is documented in `docs/interface_contract.md`. Training, segmentation extraction, fusion and uncertainty logic are later-day work; their placeholders explicitly say so. Uncertainty thresholds remain unset until validation.
 
-## Your manual GitHub step
+## GitHub collaboration
 
-No repository has been initialized, created, committed, or pushed by this setup. When you are ready, create your repository and add the source/configuration/documentation files yourself. Review the selected files before uploading.
+The Day 1 setup is on the shared GitHub repository. Both teammates should clone it and create their own environment. Team Member 1 handles data and models; Team Member 2 handles multiview, uncertainty and the application. Coordinate changes to shared configuration and the [interface contract](docs/interface_contract.md).
 
-Do not upload `.venv/`, `.cache/`, datasets, model weights, credentials or temporary smoke results. **GitHub's browser upload does not apply this local `.gitignore` automatically.** Include both requirements files, `.python-version`, `.gitignore`, `pytest.ini` and the source folders. Dotfiles may be hidden in your file picker. Empty folders are represented by `.gitkeep` files.
+Keep `main` usable and propose changes through feature branches and pull requests as described in [CONTRIBUTING.md](CONTRIBUTING.md). This is the team's proposed workflow; repository protection settings have not been configured by this setup.
+
+Do not upload `.venv/`, `.cache/`, datasets, model weights, credentials or temporary smoke results. Git applies `.gitignore` when selecting new files; GitHub's browser uploader does not apply your local ignore rules. Empty project folders are represented by `.gitkeep` files.
 
 ## Day 2 next steps
 
