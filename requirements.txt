@@ -1,0 +1,17 @@
+# Install torch/torchvision for your hardware first; see README.md.
+torch==2.14.1
+torchvision==0.29.1
+timm==1.0.31
+ultralytics==8.4.218
+opencv-python==5.1.0.95
+Pillow==13.0.0
+numpy==2.5.4
+pandas==3.1.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+streamlit==1.67.0
+jupyter==1.1.1
+ipykernel==7.4.0
+pytest==9.2.0
+PyYAML==6.0.4
+tqdm==4.70.1

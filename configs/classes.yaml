@@ -1,0 +1,12 @@
+condition_classes:
+  0: apparently_fresh
+  1: visible_spoilage
+recognition_candidates:
+  - apple
+  - banana
+  - orange
+  - broccoli
+  - carrot
+# Provisional until Day 2 dataset inspection; no trained condition model yet.
+supported_produce:
+  - banana

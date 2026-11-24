@@ -1,0 +1,35 @@
+# Python and local tooling
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+.DS_Store
+.ipynb_checkpoints/
+# Downloaded datasets, model weights and caches
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+*.pt
+*.pth
+*.onnx
+*.safetensors
+*.ckpt
+.cache/
+runs/
+logs/
+results/smoke/
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.tmp
