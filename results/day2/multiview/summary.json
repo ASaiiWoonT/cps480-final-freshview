@@ -1,0 +1,12 @@
+{
+  "session_gap_minutes": 30,
+  "candidate_sessions": 19,
+  "images_with_timestamps": 323,
+  "images_without_timestamps": [],
+  "session_sizes": [
+    17
+  ],
+  "label_conflict_sessions": 0,
+  "verified_independent_items": 0,
+  "decision": "Demonstration candidate only. Verify specimen and view identity before evaluating multiview accuracy; never split repeated sessions as independent items."
+}

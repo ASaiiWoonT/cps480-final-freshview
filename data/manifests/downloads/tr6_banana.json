@@ -1,0 +1,2280 @@
+{
+  "source": "tr6_banana",
+  "version": "1",
+  "doi": "10.6084/m9.figshare.30783827.v1",
+  "source_url": "https://figshare.com/articles/dataset/TriModal_Ripeness_6/30783827/1",
+  "license": "CC BY 4.0",
+  "archive_url": "https://ndownloader.figshare.com/files/60094544",
+  "archive_size": 20388430589,
+  "verification": "ZIP member CRC32 verified; local SHA256 recorded; full archive hash NOT verified (partial download)",
+  "files": [
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101403.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101403.jpg",
+      "bytes": 1518325,
+      "crc32": "22eee290",
+      "sha256": "330a5d270fd83a7f5b2f9fc0a9260ccc45ef7c70aba2a3466c26b63cb99c66ee"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101407.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101407.jpg",
+      "bytes": 1494873,
+      "crc32": "aa3ac612",
+      "sha256": "326c52202c949a40c6afca2f543d28ddd94790f448188dd9bfb10d2c41f31fe7"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101410.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101410.jpg",
+      "bytes": 1485129,
+      "crc32": "28f10277",
+      "sha256": "73502b5041d3b50a6513119cf953089da73da3e19cddb379c8fc330f249ea072"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101418.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101418.jpg",
+      "bytes": 1483919,
+      "crc32": "ca136887",
+      "sha256": "6c44cd7ac0546efe11627e457f629526ac874ce27dfe26e70db8f7cf412de89d"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101439.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101439.jpg",
+      "bytes": 1507954,
+      "crc32": "d97dddd5",
+      "sha256": "92155bd34a5db1bc1b7ffeb59349fb34411175d8559bec84b6aa106418b78ca2"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101444.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101444.jpg",
+      "bytes": 1529386,
+      "crc32": "068328e2",
+      "sha256": "df93567888e28a6f807b6cace200dfa36abebba4758752c1c0210310c50a4ee8"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101448.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101448.jpg",
+      "bytes": 1523475,
+      "crc32": "94633f5c",
+      "sha256": "32d8a5c983727564bb3856b39de5a8b20e240b80c5d2b29eddbb723c6b933eec"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101452.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101452.jpg",
+      "bytes": 1527611,
+      "crc32": "c8f0a4fc",
+      "sha256": "4d1959537908bafd73d5ad3f9a6ea9ca86ba3a4be441b27fcd64c915c03c60cc"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101459.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101459.jpg",
+      "bytes": 1543723,
+      "crc32": "2d6377f5",
+      "sha256": "9cf7f52316f782fba8eac39e69eebafdcd4c6cc407b26ea7f9224aa6bb4a034d"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101508.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101508.jpg",
+      "bytes": 1547974,
+      "crc32": "93d1b8b2",
+      "sha256": "4d604a8485656eba02340e2e3585c095546e8796395c9fc274be507d771c9da7"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101511.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101511.jpg",
+      "bytes": 1554464,
+      "crc32": "5167c555",
+      "sha256": "0f8aa1667fb5554e359968c3e32bf83df1685fff54576c0497913999f11f8c42"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101525.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101525.jpg",
+      "bytes": 1514451,
+      "crc32": "95a766ba",
+      "sha256": "295087c305a438d9abe51fb6cc06e1844a2a4decbf952e5a1b8f3960e582f9ec"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101530.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101530.jpg",
+      "bytes": 1548920,
+      "crc32": "8078bd9a",
+      "sha256": "80de20805b43bb58d889a21f814befb9e144c48244a65cced57c25757752315e"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101536.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101536.jpg",
+      "bytes": 1576648,
+      "crc32": "6695b973",
+      "sha256": "718ca9af9eb9c0f734882833624b86c3d449611b96e206e3c8625ea1c395c185"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101541.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101541.jpg",
+      "bytes": 1628044,
+      "crc32": "4f3bcfed",
+      "sha256": "12edaa9189d97c7f9fd10f993e56ee03559b03db902362c6eced08e0f84f76f3"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101544.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101544.jpg",
+      "bytes": 1673508,
+      "crc32": "71e2567a",
+      "sha256": "7f6a7457c2906980d40bfb1497fdc51e2fbda65b7aedcd2b15ff47bea0b95601"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101554.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101554.jpg",
+      "bytes": 1801279,
+      "crc32": "1318c35e",
+      "sha256": "d05058e5c1a4684f562943b4eb0866ae9d7a8074aaaab144109d0acec62de568"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142657.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142657.jpg",
+      "bytes": 1642550,
+      "crc32": "9b0c58fd",
+      "sha256": "cb9c8c089062fa21eba79bf98153be11f08c1b40481abbb143d9495f2365833d"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142700.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142700.jpg",
+      "bytes": 1626361,
+      "crc32": "260b8a98",
+      "sha256": "eb6b152cfd7cb406ab06e34d3dcdef8d9b4e0a96e7e6a0de92cdbb1f8a6ecd3c"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142704.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142704.jpg",
+      "bytes": 1562171,
+      "crc32": "d6a28511",
+      "sha256": "02d3ea3b34f0d8439a5b06c41179bac607630f9a17a8870d392c76d6d7206e95"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142711.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142711.jpg",
+      "bytes": 1462298,
+      "crc32": "f498a312",
+      "sha256": "f401327aa57d5e011b2a7d03109e0a1a0d14ae743ae2c1c4f396a6f72593f130"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142719.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142719.jpg",
+      "bytes": 1406428,
+      "crc32": "b9cadfd8",
+      "sha256": "8c29b4273b2e178a518321aa34ab21b4633ed89236aca3d3364663241515cec1"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142741.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142741.jpg",
+      "bytes": 1481802,
+      "crc32": "7d2a7b7e",
+      "sha256": "388ab7dfb66cb318f41959a2fdc6dddb78e5b17a21d7363298d188adf15d38a1"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142744.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142744.jpg",
+      "bytes": 1534319,
+      "crc32": "6f8b21d7",
+      "sha256": "67623be1ce02f28e4a35bc24e16e05a02b10bb49020a57c363c725639622eea5"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142748.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142748.jpg",
+      "bytes": 1558683,
+      "crc32": "190cff97",
+      "sha256": "cd672743315226da18391fcf278bedc300e223e01704140e48d0e765b70465a3"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142753.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142753.jpg",
+      "bytes": 1490030,
+      "crc32": "a5df90e7",
+      "sha256": "6f7bb7b2f10e405f482baa8f57021c69a0054b7e168bf34e544d925c33c66476"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142758.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142758.jpg",
+      "bytes": 1514258,
+      "crc32": "3223cc2b",
+      "sha256": "085c52f3f458434c52546343b7f5d3e1752ff070637de081c35e9425f2087d4f"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142803.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142803.jpg",
+      "bytes": 1483597,
+      "crc32": "08363fd7",
+      "sha256": "1f937f7078d1e3188ac4a2faf762817f76bd9dfd63e230738397ab872c903a27"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142807.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142807.jpg",
+      "bytes": 1453850,
+      "crc32": "16a639b5",
+      "sha256": "2f5c21d0cbcade3288421418db66d5d4d4c55a8312e5d3d60847b9337a99993e"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142812.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142812.jpg",
+      "bytes": 1444737,
+      "crc32": "3c2b82a3",
+      "sha256": "253502db8e39c7c85fbbde318c03ba643ef51f667e2a609856bc6b1a3dc3e392"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142816.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142816.jpg",
+      "bytes": 1531673,
+      "crc32": "f6ae6cbb",
+      "sha256": "1b68fcb200eabc2ec4b88162ba6f8bec21519d522e3e65f9087506528ffb9bf5"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142822.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142822.jpg",
+      "bytes": 1506053,
+      "crc32": "49613108",
+      "sha256": "1e3c1fd0a32a742ed07f8745f3aeadfe5b2d1b69dad02ffc70b1ff8b66cd8269"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142826.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142826.jpg",
+      "bytes": 1484145,
+      "crc32": "a6ca0303",
+      "sha256": "02fbb64ea3ab3814be1e92b36e005721dbb08572d1f29546ddec36c97fca3761"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142834.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142834.jpg",
+      "bytes": 1402542,
+      "crc32": "59d95cfc",
+      "sha256": "8cb6ba18685d6f988ade8354e07d91ce3df6697af27004dacbcb0dd1505849c3"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163143.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163143.jpg",
+      "bytes": 1550583,
+      "crc32": "58161d67",
+      "sha256": "13db9d67f436b7a6892fbb0a855890e96fe7658f2c5cad0c4664c167ba63f78b"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163147.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163147.jpg",
+      "bytes": 1545584,
+      "crc32": "31d8558e",
+      "sha256": "13e7a3e7965dd7dba27798a9ffb74195073ed13869f22e52591383d24c4d6834"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163149.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163149.jpg",
+      "bytes": 1568134,
+      "crc32": "b4f3468b",
+      "sha256": "9090fe8b7d9c76ad20c23f0c49ed856f3644af729d3356ff3072aa523c6a17e3"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163152.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163152.jpg",
+      "bytes": 1571443,
+      "crc32": "ca2841f3",
+      "sha256": "ed185ab05f069846fc0b49d98378b30a96b6f5b05eb384f5b86bf9383fbd8138"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163155.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163155.jpg",
+      "bytes": 1597607,
+      "crc32": "74b7aa64",
+      "sha256": "8045bfa79daeda37d30b56fa09d866fcea24eae7927c66b87be7f2b0be29be2b"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163215.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163215.jpg",
+      "bytes": 1538480,
+      "crc32": "0818227d",
+      "sha256": "fd7332345b18317b284fc4b02698bdb86abe6a246241feb3c6ffc2dc619e06ce"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163217.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163217.jpg",
+      "bytes": 1518009,
+      "crc32": "2978c3fd",
+      "sha256": "7575e504af6e61afc595eaaa9ec0cf4c974cfcce62aba2826fb4a21d59f437f7"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163221.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163221.jpg",
+      "bytes": 1507246,
+      "crc32": "e3af9200",
+      "sha256": "9fa1c4f7d527d4d4575904214a9aa5830637fc14e2d09e73349066fdcc2308c8"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163226.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163226.jpg",
+      "bytes": 1560707,
+      "crc32": "1bb97888",
+      "sha256": "831e547ed739919adfb30cd54bfe67d0b35448c210bb30621fd4577d18c4753c"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163228.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163228.jpg",
+      "bytes": 1522929,
+      "crc32": "156d1cbc",
+      "sha256": "a7fab7042490938438088bd99b4d1e246279acc2bb409bb0acc90612f1371b64"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163232.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163232.jpg",
+      "bytes": 1542847,
+      "crc32": "b10063f4",
+      "sha256": "08cb656ca12d89684a7781f5018bae0de51b14087ab97b887b321aa0ddbe30f8"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163235.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163235.jpg",
+      "bytes": 1538478,
+      "crc32": "b94fa62a",
+      "sha256": "79d3bcfb9277f8cc9191956bedf1aceea909f780b6a4a9c38b9d1053eda8d991"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163241.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163241.jpg",
+      "bytes": 1553772,
+      "crc32": "44488a56",
+      "sha256": "3caedcedb7ae33f8a7e2b084d87a2d299af8f94023f96dd16dc30c4ef3ae3dcf"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163245.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163245.jpg",
+      "bytes": 1582272,
+      "crc32": "b9eda458",
+      "sha256": "799f9a86efd66eadd22954e768cd0b7c2de64e725506cea8f9c748c25ee092cc"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163250.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163250.jpg",
+      "bytes": 1595383,
+      "crc32": "e9505c12",
+      "sha256": "59c7e8bd5b970eff505b65da4fa4ee352ed671c811ef86b9cde0a393a2dc719b"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163253.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163253.jpg",
+      "bytes": 1612876,
+      "crc32": "2b449c49",
+      "sha256": "2043bc707579cfeff071f89f8e6003931c5f6255dcb2c4dce3dce2bd33578fa1"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163259.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163259.jpg",
+      "bytes": 1840716,
+      "crc32": "e93509df",
+      "sha256": "79eecdd6435de9b73ae8b226cdfaf643a6d1b83f761d18e5de0c7beb182e518a"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091448.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091448.jpg",
+      "bytes": 1581508,
+      "crc32": "349a79f0",
+      "sha256": "ff32d95caa958d02778eef778b6bac509208089414f844d9eeb8be972b3e38fb"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091452.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091452.jpg",
+      "bytes": 1541682,
+      "crc32": "45d414b0",
+      "sha256": "3ebea1b7a76c5bc74c93377ecdab87ad7c8f060d5c96194a485514653c3e2edc"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091457.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091457.jpg",
+      "bytes": 1515530,
+      "crc32": "46ba4bcc",
+      "sha256": "ce3cd3fb16d6dfa90a3e605112d4b459fa31f92ac719ab06cac90fc186c1e55b"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091500.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091500.jpg",
+      "bytes": 1448686,
+      "crc32": "7774d46f",
+      "sha256": "d02466edcf64254c803977f434a401b1a1fdfff60a1096abce4efd221fddf0bd"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091508.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091508.jpg",
+      "bytes": 1357035,
+      "crc32": "62222585",
+      "sha256": "cb10350592fbb81e2f57d8c22c3796aac1cadc5519fda00bcc538849e9b1d779"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091528.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091528.jpg",
+      "bytes": 1363292,
+      "crc32": "adcc8c8e",
+      "sha256": "203c3e50f7b68f4ae3ff2e17a45f8003aa577dcfce51255477c5889ec4e07425"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091532.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091532.jpg",
+      "bytes": 1411789,
+      "crc32": "f3bbf876",
+      "sha256": "b0ea8238361aa43d276b74ca47d0292332b485a94182282a853207c730ca7f21"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091538.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091538.jpg",
+      "bytes": 1431194,
+      "crc32": "eddc855a",
+      "sha256": "9c4bb5d5ee004231a468e992fdd78da1559a4e6faf96382d5d1888fd53dc3319"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091547.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091547.jpg",
+      "bytes": 1394243,
+      "crc32": "8bee13d6",
+      "sha256": "f957601f13c96050f652fd30752d09f361e406120f640fc9e2eb72bc8c89cd52"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091553.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091553.jpg",
+      "bytes": 1458323,
+      "crc32": "75ac7f67",
+      "sha256": "6c70967f8e4229c03f4883c439dbb03a17e7956f736a13870233549e5080512c"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091558.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091558.jpg",
+      "bytes": 1463472,
+      "crc32": "bc5294a8",
+      "sha256": "b2a70eeee635c3ac892736c36a621fbf6cc7c7c20228c164ec1e24c9dbce064d"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091604.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091604.jpg",
+      "bytes": 1448800,
+      "crc32": "98ddee4b",
+      "sha256": "adae0f133c4595c691b8ec859b3c46d0b8f2e39e4436fa0da6b95ba5f691af6b"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091611.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091611.jpg",
+      "bytes": 1475932,
+      "crc32": "04e4a831",
+      "sha256": "10ff48d1a585501f1d0cdbc03dacfa5117b11a7ebe67928e0173b38669f241f9"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091616.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091616.jpg",
+      "bytes": 1490668,
+      "crc32": "b73409f2",
+      "sha256": "e74a2e6deed15bb2162848fd52b51e8699a06f69bb5ed9a7a20d58411a3e7d6d"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091619.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091619.jpg",
+      "bytes": 1506327,
+      "crc32": "084b1867",
+      "sha256": "e79b32424c81e97e9ae3740550293859c3b2110738e81f922f40ceef9631e3ac"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091624.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091624.jpg",
+      "bytes": 1508381,
+      "crc32": "5089b354",
+      "sha256": "b1f1f2ec0d55fe4fa17b5cb9fd80e4b45142714610457b62ca95885484b66782"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091637.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091637.jpg",
+      "bytes": 1559459,
+      "crc32": "23808457",
+      "sha256": "98373461dc574cb1f8c8b190ea328d561e1b480a3e23ecc1f5d68475467ead39"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132114.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132114.jpg",
+      "bytes": 1514319,
+      "crc32": "616a4ac6",
+      "sha256": "75af1a75e118ecce68bbb2cb67f404c5b0a9f2532ebf0a20f8434584aa4865f1"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132118.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132118.jpg",
+      "bytes": 1515992,
+      "crc32": "c20f0602",
+      "sha256": "b5f9cfc816038c54f099291033768720ddb73397b22176deecdf0b05d2b25e10"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132121.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132121.jpg",
+      "bytes": 1516033,
+      "crc32": "8aaee3a7",
+      "sha256": "96398f8dfbae1b5edd5be0e4c05142acde5be4b08bd07bd5c237ec64f1305097"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132128.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132128.jpg",
+      "bytes": 1470536,
+      "crc32": "b2a0d00f",
+      "sha256": "804b4d86b8d0d524d47de2e18d203cd1b84eb863e76bd41252f36c358120c376"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132133.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132133.jpg",
+      "bytes": 1321533,
+      "crc32": "dfc27922",
+      "sha256": "0c255ff407aefd31c1c632a0f681f947f58e03f0a410025410b1beebdff69553"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132142.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132142.jpg",
+      "bytes": 1382599,
+      "crc32": "5662df74",
+      "sha256": "114c336e8499ac2ce61a69ff8681ec558f3310e77c764907c9835a4710d75421"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132155.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132155.jpg",
+      "bytes": 1475578,
+      "crc32": "6e2a1332",
+      "sha256": "eb18aee91dde7e44747e0df794980401f61b0be73e83205b3a533e2aa62e9fe6"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132159.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132159.jpg",
+      "bytes": 1582272,
+      "crc32": "4dbdfb2e",
+      "sha256": "4968a267a5fecf969ea54f33d502164d4ff292a010d6730f320a4e8174a516c1"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132204.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132204.jpg",
+      "bytes": 1512359,
+      "crc32": "88f41032",
+      "sha256": "711c9a41f71daaa3aa7b9d1dbd9781787467e5a7b7ed4ec0277cf9b61562345c"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132207.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132207.jpg",
+      "bytes": 1524645,
+      "crc32": "726b3df0",
+      "sha256": "914eb3ebec293cb84da241958c1099562ae977f14ab3837d76ae7c60701734b6"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132215.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132215.jpg",
+      "bytes": 1482429,
+      "crc32": "736b318d",
+      "sha256": "f7dd9d4f8f86e310b94b9e5c7eb0c3f904478dab867b267a3e3d7a681727daff"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132231.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132231.jpg",
+      "bytes": 1493948,
+      "crc32": "02af659b",
+      "sha256": "f9f756d0a341abe9b3dd2edeeeb8b52a3daed3647d55daa253108eaad8ecc023"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132236.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132236.jpg",
+      "bytes": 1496454,
+      "crc32": "c13343f7",
+      "sha256": "0c01951606e5cb09c126c8e34199f340829043a6accf51efd70526f784a928da"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132239.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132239.jpg",
+      "bytes": 1523631,
+      "crc32": "9bbff433",
+      "sha256": "773ff07e397fe50e4d467129083bd150363837748da919821eb20d888a1c166b"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132242.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132242.jpg",
+      "bytes": 1557723,
+      "crc32": "ccc88dca",
+      "sha256": "ad54e4baedfef378f17b822e2f1e5225fcda64778b57ea51807b64ab5ff296a7"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132251.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132251.jpg",
+      "bytes": 1578310,
+      "crc32": "4a7acdb7",
+      "sha256": "f647e04e9466c80e744200317df36c519c7e6eb7ba0244a1b18538a892c5b33f"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132302.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_132302.jpg",
+      "bytes": 1462028,
+      "crc32": "feb79a14",
+      "sha256": "9a2a800cb80d988946b6ec189f84b68bef4922a8f2949910975d51f3befd4828"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162832.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162832.jpg",
+      "bytes": 1462045,
+      "crc32": "38b8cca4",
+      "sha256": "a26f481c929f5e432f75250ed6b4bd0d71f5d21fcc8c542bb115dd4fab692c99"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162835.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162835.jpg",
+      "bytes": 1509722,
+      "crc32": "e8256293",
+      "sha256": "b71b1e303a67f33bc85555f253f74659ad42c70056416d2a3a0a99f3451fa4a4"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162837.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162837.jpg",
+      "bytes": 1497904,
+      "crc32": "4a16ebf2",
+      "sha256": "897a31081858a3d06d2302b24336bb7da066a6b5784b86028c7cfe5a6faf6dfb"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162843.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162843.jpg",
+      "bytes": 1541296,
+      "crc32": "ff85a667",
+      "sha256": "7ac8693b13f0c3d65c247562c618b79eb65832f9269acb3dae709ba378f4ffec"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162848.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162848.jpg",
+      "bytes": 1304823,
+      "crc32": "f1322935",
+      "sha256": "b4159162768699727d9e3c5271895939c29b433e8ffce19853cdc1ba4a8637e6"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162853.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162853.jpg",
+      "bytes": 1412786,
+      "crc32": "45bb99a4",
+      "sha256": "4c2a789b0594d8945e938362d68e4c2203d473824dad09467a0d77a0fd71ddb8"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162900.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162900.jpg",
+      "bytes": 1448571,
+      "crc32": "be6b8b63",
+      "sha256": "a0107bb2db3eeaa7690be3fbccc7a4cc64e73007397653f115c73525849a5cbf"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162904.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162904.jpg",
+      "bytes": 1409970,
+      "crc32": "86f20b52",
+      "sha256": "e6c34187eac124d7e282ab4de6d0c6a10ffc546a05b40401e4fad3e82a54b72d"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162910.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162910.jpg",
+      "bytes": 1410790,
+      "crc32": "e33dd0ca",
+      "sha256": "ae8815a1744db7a2c62cd18f81ad404399ba6b1f2cddd944941196b559a27bea"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162915.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162915.jpg",
+      "bytes": 1348587,
+      "crc32": "936c1370",
+      "sha256": "75766b74ece42c0d9a5cd24123d1b3f33a7ca4cb7b04e84af7ac3c5fba24863a"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162919.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162919.jpg",
+      "bytes": 1329912,
+      "crc32": "2a6e28e0",
+      "sha256": "4038973fe61d22ec9e48da99d24c366bb5fb13f70d58bdb2c9a0885c09ce7c0e"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162930.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162930.jpg",
+      "bytes": 1311672,
+      "crc32": "5ede5ec7",
+      "sha256": "f3e367015b0aabea4dbacd4c94d6874c5b34d6bdffe1b0a8985501c677e09f32"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162934.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162934.jpg",
+      "bytes": 1460838,
+      "crc32": "c7433cb0",
+      "sha256": "3bff71db59080cca538a86c3cec7c471a4752615c8ed3a2dd556bb8412d9732c"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162938.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162938.jpg",
+      "bytes": 1456370,
+      "crc32": "3bff658d",
+      "sha256": "dd4bfdb21ad43da826672f4e4d65f04dbb560ec5c64c8f9dc4efb8e09358763e"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162944.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162944.jpg",
+      "bytes": 1493718,
+      "crc32": "9a95244b",
+      "sha256": "999ee64ca84813efdf474ddd7031ff141a408db561e97d4fb444b73f1e9da63a"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162946.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162946.jpg",
+      "bytes": 1486073,
+      "crc32": "e7a674bf",
+      "sha256": "59863373275a977060a1ee2e47d0a427888f00d556a83f7add706ea38b57ea3b"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162955.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162955.jpg",
+      "bytes": 1511281,
+      "crc32": "f271432f",
+      "sha256": "9f43d9e3b243e5b16c261fe61ca74b321e4a09acb3f0e3dd26f023b510fa3015"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093355.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093355.jpg",
+      "bytes": 1542657,
+      "crc32": "7b886f3d",
+      "sha256": "5fa38c2891bc52f95292f3e259400a8ab0e02b8d3c486bc5fb359680051e2178"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093359.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093359.jpg",
+      "bytes": 1531484,
+      "crc32": "5d861a99",
+      "sha256": "5c0594ec6c4afc1e5dd3d2cc704d74c9a46e8f6e60c59197766b7a0dc61fbbf8"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093404.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093404.jpg",
+      "bytes": 1520713,
+      "crc32": "4a902cef",
+      "sha256": "4a7eaf172eddb1e06525f61b834ec726493b9ddfc88636de26fb98bba029fc19"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093408.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093408.jpg",
+      "bytes": 1520065,
+      "crc32": "8ffc58cc",
+      "sha256": "99b6d9468e27ffdd845ca174c578fbf29f4aaf38e7f567f582e808de61d6db6f"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093415.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093415.jpg",
+      "bytes": 1552236,
+      "crc32": "d86c2460",
+      "sha256": "c09dd7efccfa9073f6f408e5ff03a95ecc481fa6f9bf57b6033a3814049c14e4"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093422.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093422.jpg",
+      "bytes": 1519970,
+      "crc32": "d71114a5",
+      "sha256": "2a275edfac0b24cd45271061348e5f102057fabd7ef837c9e5629fc03c323335"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093440.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093440.jpg",
+      "bytes": 1512048,
+      "crc32": "7219f20f",
+      "sha256": "fda67262b88c97117c46365899d55da53ebe0679a31950395f0b0141430bcf6b"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093443.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093443.jpg",
+      "bytes": 1512886,
+      "crc32": "ea3b6224",
+      "sha256": "a200dfc1af3975f022f17e3a4d3241e562a5bcc4378605d27bd7237000650d88"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093447.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093447.jpg",
+      "bytes": 1528121,
+      "crc32": "f0ad80ce",
+      "sha256": "4bae1620287b691017a305a4714ccb986688bffdeeb83f7ef1a73355140dac19"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093452.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093452.jpg",
+      "bytes": 1557981,
+      "crc32": "7e5d68f1",
+      "sha256": "ce7517c873d916d04fb19f2b04d6dc5212dc814b151a2c7cf1778cd045880124"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093456.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093456.jpg",
+      "bytes": 1576860,
+      "crc32": "fcc5f247",
+      "sha256": "d2a3242ea4c78aa79b9a92561dea8a6e158ec927fe3acb2dbe039e9c1cfa8f43"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093503.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093503.jpg",
+      "bytes": 1571954,
+      "crc32": "ec42f230",
+      "sha256": "c620f0f26d517319e9b8105372808d40711e57e1229a1cf0e0dc41b3a9e86a11"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093506.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093506.jpg",
+      "bytes": 1579719,
+      "crc32": "d7355031",
+      "sha256": "8230a1ecb123d432c2bad4953bfc5ba41541964ccd2c99b072151d139ab92d02"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093510.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093510.jpg",
+      "bytes": 1602137,
+      "crc32": "7371f52e",
+      "sha256": "feb2e76967fc7c3630c7cc066b337cb32f5c420b2b2ee6df0ca35959fc59c701"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093515.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093515.jpg",
+      "bytes": 1595246,
+      "crc32": "f071a353",
+      "sha256": "b282335724dd889d287d8e1c6b457e612b016cf2865ba47b8c85a97d6992b970"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093520.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093520.jpg",
+      "bytes": 1645861,
+      "crc32": "e881d710",
+      "sha256": "aa667c2e93260506b5d87fe02b5466b7026b8be6f53240e629c2bf0160d7735e"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093526.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093526.jpg",
+      "bytes": 1753922,
+      "crc32": "8d94a9b4",
+      "sha256": "83e4d3d1780060c372aeb4f17ea37a1e5d16ff9545f23de50ba72658d4813375"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140602.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140602.jpg",
+      "bytes": 1545330,
+      "crc32": "8fa4a0cf",
+      "sha256": "dab609b883aadde7fe093c1d65ce8d9a8fff20133de873a74fe7ce05dc5b3aa1"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140614.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140614.jpg",
+      "bytes": 1603579,
+      "crc32": "044cc917",
+      "sha256": "f1dad5bb81458b2799c0f3e4e5ce600026b950dfd3ff8dadad87217729812907"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140619.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140619.jpg",
+      "bytes": 1550194,
+      "crc32": "20ca3998",
+      "sha256": "8250e99c7efde6500472683c6f0ff3b3463fc671ab75c06b5b4a31b24979a8a3"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140624.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140624.jpg",
+      "bytes": 1541935,
+      "crc32": "d1795f78",
+      "sha256": "8fd37f89f656ff1fdbc92caa7b1a4afe5237fafe8dc68bcb358821f5da97c8ee"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140631.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140631.jpg",
+      "bytes": 1466250,
+      "crc32": "a90ca0e9",
+      "sha256": "d40b6df7a7d8b072be3fd87a19cc0cda6bfb813c19c5f42b8a6d09a86539b641"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140648.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140648.jpg",
+      "bytes": 1548774,
+      "crc32": "8f17dc49",
+      "sha256": "8cdc53d05e86df669c28e99d089c9722ef049963fe0a973726e2e3dec8835c72"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140650.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140650.jpg",
+      "bytes": 1452707,
+      "crc32": "f103bdef",
+      "sha256": "103eb25fe140ee5bb4136225d263e50ad980c9f94fc11d7fee1c52107d77a87f"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140654.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140654.jpg",
+      "bytes": 1529393,
+      "crc32": "bc476239",
+      "sha256": "c9096494f08e83e3948a55ceaaad174a84d6cf08147bbee58bdf8282b3fab39d"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140701.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140701.jpg",
+      "bytes": 1534492,
+      "crc32": "fa452842",
+      "sha256": "c2aee12e2e094634bbf9ba084d3e128d8d097c4dbf9e906f0eeef1fa3d414108"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140705.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140705.jpg",
+      "bytes": 1539161,
+      "crc32": "414c6664",
+      "sha256": "bde0b9fd024ee8deae9e67a3c57fdf2fa2d6b9858d995e5b4ea2ce7b0615860b"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140710.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140710.jpg",
+      "bytes": 1433900,
+      "crc32": "780c6ee3",
+      "sha256": "1da31b8b5598a7699289e5cc5b09159b19dad8a145c1ceca35d415595c06920f"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140713.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140713.jpg",
+      "bytes": 1470379,
+      "crc32": "df367ba1",
+      "sha256": "14c92eccd695c0abd2482ceb4f3c57d28f9c5120be52e4752dba499272994e86"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140717.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140717.jpg",
+      "bytes": 1328349,
+      "crc32": "e43f191b",
+      "sha256": "f8c44d3806170fb4ce5144b5b9ed2e9c4db043305a784bbf9ad94463b11fad30"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140727.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140727.jpg",
+      "bytes": 1520034,
+      "crc32": "1eb08a99",
+      "sha256": "2882d0588b73cf680796fdc563e793567568fdc64588d252a1a0db2ec868bdde"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140729.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140729.jpg",
+      "bytes": 1544617,
+      "crc32": "e80f550c",
+      "sha256": "eec5907d899b4f4d5aa80c6dbdfe6ad452dd89d64f7f7757c1cb9d5d8be6b583"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140733.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140733.jpg",
+      "bytes": 1535414,
+      "crc32": "c7401f52",
+      "sha256": "35c551757138abc83bb18c3769fbc4729dfcddd5a0f79498bc3ec1a44f132b85"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140738.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140738.jpg",
+      "bytes": 1643679,
+      "crc32": "c444a2f1",
+      "sha256": "11e69314910a05d35e1abe10b0a9f3e09a4dc08a3a8098d584ec037752b0ff1b"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161750.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161750.jpg",
+      "bytes": 1560012,
+      "crc32": "6ef02b6b",
+      "sha256": "6618ea1192f79dad69dccb597114fe9883101bdb476b2801fe962b470813e455"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161756.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161756.jpg",
+      "bytes": 1571647,
+      "crc32": "0a283fb1",
+      "sha256": "4302fc080d73ebe95c17e8162809d10751a0852d1bd413de94f9974a05985b6f"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161759.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161759.jpg",
+      "bytes": 1484039,
+      "crc32": "7be60d58",
+      "sha256": "c5608c2b055cf768ca981f58eab7889a85c1e57c3696ca3cc0feaf47c9303775"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161817.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161817.jpg",
+      "bytes": 1427113,
+      "crc32": "3a7db7d8",
+      "sha256": "8e7dd98ae632515a8ce727fde5beb89dcf0c8cffc97bbcb0ec829203a7dff0fe"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161837.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161837.jpg",
+      "bytes": 1446693,
+      "crc32": "10a2d5f6",
+      "sha256": "cf11eeda23bb20f1a0b68898916078715a06bf150874bc6f6e3afe11710681da"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161839.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161839.jpg",
+      "bytes": 1395745,
+      "crc32": "156d6540",
+      "sha256": "45886cd5758ad099a1caf2f499678e8e52fdf2af33cce64d2aa824d4c65900ed"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161907.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161907.jpg",
+      "bytes": 1407648,
+      "crc32": "20812690",
+      "sha256": "53299afa8564c10a03963c373fa6071d8d7d0659d5038d6fa29b137efc3831de"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161910.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161910.jpg",
+      "bytes": 1431740,
+      "crc32": "8ace38cb",
+      "sha256": "5c5de5fc72f71f2a87c5fc26dd8cd8c5ab544fa74fca935255180e10605c1b20"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161914.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161914.jpg",
+      "bytes": 1435190,
+      "crc32": "e0d3551e",
+      "sha256": "5758fde001ea74243bc6ea3a7b1294f34db0043a8f0d2b3ffe39d73b4795b763"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161918.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161918.jpg",
+      "bytes": 1307064,
+      "crc32": "4bb8ece9",
+      "sha256": "abc3ef1014f0db3c4481ab3acf35032806554b1d5814a4689cda8315fa9988d3"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161921.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161921.jpg",
+      "bytes": 1329603,
+      "crc32": "0366a400",
+      "sha256": "b19ca044807ea1cdcbe49e8a6e8f8111a9c40337c10e33ce6a36cf3109e54a72"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161933.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161933.jpg",
+      "bytes": 1337422,
+      "crc32": "5084b217",
+      "sha256": "bac5dda929cca06eb68e55d43b9205f0f5f3f04fadd75d98711e620d9115cd8d"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161936.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161936.jpg",
+      "bytes": 1367284,
+      "crc32": "ff5cca25",
+      "sha256": "c653fdce0a797eebc0ab3c28f47cc7fe98d40d9b97743cbf9f2d547d0ab3f547"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161944.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161944.jpg",
+      "bytes": 1417026,
+      "crc32": "a91074e1",
+      "sha256": "a86f44d1d408141fece1b88aa83085455b65d0f9aa48b7a4a055ba07b5ce12e0"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161946.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161946.jpg",
+      "bytes": 1426844,
+      "crc32": "e7771a5e",
+      "sha256": "b39bb5ca0bc706469ff26a1bf9bc25e993ec060cc78f3322c7909725aa5ada8d"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161952.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161952.jpg",
+      "bytes": 1374297,
+      "crc32": "5f154a13",
+      "sha256": "d92b662cc303d05f54c48ffd90d0d9eb2eeb6c5a1aaf35e9e836eba9a97bdfd1"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161958.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161958.jpg",
+      "bytes": 1488000,
+      "crc32": "2a361639",
+      "sha256": "b83dbfb9e09091412e0dc1bddfbb3e8447add6cd38a10d1cdf7f03d2bcf14590"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092524.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092524.jpg",
+      "bytes": 1542750,
+      "crc32": "57ee8444",
+      "sha256": "cf868705a8a0993ff60229d97bf168f752b0faf3d8ceb9f85e8d88a4f1105130"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092529.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092529.jpg",
+      "bytes": 1358754,
+      "crc32": "3bf2ce78",
+      "sha256": "9c1a0a5d2deb1b58544fa59f83ee6e33c73f816b91753660f305bbeb992c2f52"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092532.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092532.jpg",
+      "bytes": 1469870,
+      "crc32": "2550e604",
+      "sha256": "89fbf0c58b4d875480be112de255c47cf1fd33c10b584b1fe0584d6b351a6302"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092536.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092536.jpg",
+      "bytes": 1460327,
+      "crc32": "be65d05f",
+      "sha256": "1c0fef3b2268f6a0c8459ba7faf9c42347d1fcff89fbd1d1acdb2278fad65e8a"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092542.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092542.jpg",
+      "bytes": 1420748,
+      "crc32": "e548e9a0",
+      "sha256": "a31e070cdfd9841137927f26ba9607bc998a2904301e725a1ef42dcb98f6c098"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092549.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092549.jpg",
+      "bytes": 1483588,
+      "crc32": "bf526fdd",
+      "sha256": "b3f28fbbaa80ece7d0011792b2dd54cc4d297af0c5e5ffe0d0f9bc0cb78a6da5"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092649.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092649.jpg",
+      "bytes": 1495219,
+      "crc32": "3de6f42c",
+      "sha256": "2ce2c0b0056a9cefeaab37456c243955e9a3a4ece0377ec48a93a9a43c97d1ff"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092654.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092654.jpg",
+      "bytes": 1432096,
+      "crc32": "0cda57f2",
+      "sha256": "e9dd36bccf7753e985f40dd0e311a6b696302693a90d246035b1710ef59e92d3"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092659.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092659.jpg",
+      "bytes": 1497212,
+      "crc32": "67bcab36",
+      "sha256": "30f5fa6af9bb5904bc0db4295913b3f25f69e97ee828cc2caccdbed435a1c237"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092706.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092706.jpg",
+      "bytes": 1517592,
+      "crc32": "409e0c08",
+      "sha256": "d306527f6c708aa389b4c7e05c26e4393c33f2f5821a4ae2859f084a45853a57"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092712.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092712.jpg",
+      "bytes": 1460677,
+      "crc32": "8bd749d9",
+      "sha256": "e7b9b3fa520ef50ac5e34e3ee022280357a5f4219afb1954e2056ddf1ec0928b"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092719.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092719.jpg",
+      "bytes": 1546298,
+      "crc32": "6b0bd26b",
+      "sha256": "5c0c635f17a45f96f349cabbc62116ebfb7132c80d751d59144fab305ef2ec5f"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092724.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092724.jpg",
+      "bytes": 1515615,
+      "crc32": "fb531914",
+      "sha256": "1ee2331f3207476758c1d76b514f582dd9c463dd2f071099397423e37d6e2768"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092730.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092730.jpg",
+      "bytes": 1543441,
+      "crc32": "f6bbabbc",
+      "sha256": "604f0c2e46c82a6fb1c7e368444ecc9cb2cf31ddac5402255e7c5b3ec44f92c4"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092735.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092735.jpg",
+      "bytes": 1512631,
+      "crc32": "969b4bae",
+      "sha256": "a5859081d075a2f7ded516e16939f8e9571d59e0c912dfbe7682e9a7d8b8998b"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092740.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092740.jpg",
+      "bytes": 1562000,
+      "crc32": "56cf8a27",
+      "sha256": "bef470c8060af145c154e03150ccb0a85d03797b95d5ae1997f976f233bc9de3"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092747.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092747.jpg",
+      "bytes": 1599624,
+      "crc32": "a03545b6",
+      "sha256": "e0b900a260ba49c260a9619a39e02753cb23fd240b3ef5645823b5042373c846"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132239.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132239.jpg",
+      "bytes": 1485574,
+      "crc32": "20da4ce7",
+      "sha256": "1cf254ea4ad561127a1f7b02dbf006be27b63702ff0a4023e2c843c801119a12"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132247.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132247.jpg",
+      "bytes": 1510821,
+      "crc32": "0e13f2b1",
+      "sha256": "2e01b3619bc0d59f362d1a018f61e1e26459b69c126cca2435471fcc84d5fecb"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132251.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132251.jpg",
+      "bytes": 1582320,
+      "crc32": "2ba72567",
+      "sha256": "e7fad54f64ff2b141dc37a809f72e2cbdb997633d57f5588f8b9ee43d188ba6b"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132255.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132255.jpg",
+      "bytes": 1588825,
+      "crc32": "e37e1fed",
+      "sha256": "49c4f0e7a71a958c458dd50045dcb808fd3ed93e98245cea51c1739ffb6079a3"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132300.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132300.jpg",
+      "bytes": 1550971,
+      "crc32": "172c6cdb",
+      "sha256": "a3240c3657c840d9dbecd19f410806033765718c5439192c70aa9d473fada4de"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132310.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132310.jpg",
+      "bytes": 1565782,
+      "crc32": "e95f2dfb",
+      "sha256": "89b0f0680376033a515d85963a9a9c36b44f82a5ae16aaf3140608fa4bdf37de"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132313.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132313.jpg",
+      "bytes": 1498925,
+      "crc32": "175631f7",
+      "sha256": "7f1e72c433afb5cb3118847aad741c63f32afb6788da4a930c37c2f5d288ad40"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132317.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132317.jpg",
+      "bytes": 1537445,
+      "crc32": "9707afdf",
+      "sha256": "4c31e34bf61d3547cfd6c1790772b5363daabc5b3d4917a3fe957208fe308cc6"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132321.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132321.jpg",
+      "bytes": 1583583,
+      "crc32": "cc3032c1",
+      "sha256": "edff2ec3006d2295c0894771719104cbd074566e863ff2229c585a1a2d124dfd"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132326.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132326.jpg",
+      "bytes": 1546382,
+      "crc32": "44fd37f7",
+      "sha256": "0ba4bde9c2f918667bcb855dd381f444969aef45e68c730c357b31752bfd26ea"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132333.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132333.jpg",
+      "bytes": 1569336,
+      "crc32": "bda91424",
+      "sha256": "9c368d417a06ca43b8c42bd95a92beb41dda298ed9ab26e52141dc49a691d87d"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132339.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132339.jpg",
+      "bytes": 1522984,
+      "crc32": "7bdf0c68",
+      "sha256": "a867ffa10e966295845d19ddcd34b0aca6595a81eb7415c97da12dd117f412c8"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132349.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132349.jpg",
+      "bytes": 1561794,
+      "crc32": "fef230cb",
+      "sha256": "ff702239b9dc92f2d31e431fa807555ea659098253ca1eb398068c180839f95d"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132352.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132352.jpg",
+      "bytes": 1594631,
+      "crc32": "fb16f574",
+      "sha256": "594dc1290166d7f45c1e10859be3cce4a7735bf1c44674f84202baf61d8e6ae4"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132357.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132357.jpg",
+      "bytes": 1647837,
+      "crc32": "35543fb3",
+      "sha256": "aef0994a591c6c2f875f32a0b5edeadbb74bd2143296854274e74705bbea4f8c"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132401.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132401.jpg",
+      "bytes": 1636364,
+      "crc32": "7cd9de18",
+      "sha256": "03a1e89309845b3b4f3ed15f751329af8a11158d0bce8774aeb685b415eedee9"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132409.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132409.jpg",
+      "bytes": 1712951,
+      "crc32": "20518935",
+      "sha256": "4c567b4198748f9427eb3d42409f4dc8fd3e4cbf05f026dbce94cd4b33cbc0d1"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093221.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093221.jpg",
+      "bytes": 1506436,
+      "crc32": "e53fc85e",
+      "sha256": "b40c31d387fd8c8651ccc275fb9511cae5d9c78bd0216c893d62ed7b6b6c9d90"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093225.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093225.jpg",
+      "bytes": 1489846,
+      "crc32": "ceed3bdc",
+      "sha256": "ad492a66dd108d10da0c0bbad615307284625b188a6e8c3c2dc6021cabf74911"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093228.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093228.jpg",
+      "bytes": 1451596,
+      "crc32": "a94a3053",
+      "sha256": "eec01356dcd6bd37746b9896c1c371f39aed8258759c41ccbc3c146e539889f6"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093231.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093231.jpg",
+      "bytes": 1473487,
+      "crc32": "933c2ab0",
+      "sha256": "5c2abe09f742ff08f84170e6a3a4b303e7aedbbfca37020208f7c501dff5ceb0"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093236.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093236.jpg",
+      "bytes": 1485254,
+      "crc32": "4c74d8cc",
+      "sha256": "44c0f8322639437327a607a842fab1556238459dea1d8881c4ed4a3be91b4175"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093239.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093239.jpg",
+      "bytes": 1424844,
+      "crc32": "29589e26",
+      "sha256": "61b51be308f46788a79b2497291b0f96c2a012fbc85de81c0511cbcaa49b0cd2"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093249.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093249.jpg",
+      "bytes": 1465031,
+      "crc32": "defb56d4",
+      "sha256": "6fd13cdb1d93742ff2961f0c15a9f6fc1d01604bd97e34654809f81e92bc7aa3"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093252.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093252.jpg",
+      "bytes": 1443264,
+      "crc32": "4304e708",
+      "sha256": "05d0d88ac930d926f3bccffd9690d73c8ce921352750be5b17da8d5ad2b76b89"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093256.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093256.jpg",
+      "bytes": 1476540,
+      "crc32": "2208eb4c",
+      "sha256": "09eed2998847624d1ba15d6678b9600c4d5c7fc30af95c4ff1f9cead26d8a2dd"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093301.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093301.jpg",
+      "bytes": 1482315,
+      "crc32": "3bda8917",
+      "sha256": "7d3be790bae8927ab9c015016a1f920548fdf0f77408896f9175c5a06e53cc83"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093304.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093304.jpg",
+      "bytes": 1507502,
+      "crc32": "5a79b61f",
+      "sha256": "08ca41a89317570ca5c96a4e572733032823d81ad70af8134e461a9ae0e911bf"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093310.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093310.jpg",
+      "bytes": 1529607,
+      "crc32": "2ff777a4",
+      "sha256": "03da3158447c069dbf9f63bb96060d9356d16f38cf6b93fa91fc402660534b79"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093316.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093316.jpg",
+      "bytes": 1602952,
+      "crc32": "7b4b4a5a",
+      "sha256": "56975117552f41c1666b3f916ed2ace6fa73a40c68f7202e21060dc9ea03d97e"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093319.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093319.jpg",
+      "bytes": 1560695,
+      "crc32": "45d67986",
+      "sha256": "39a16efb22021f7d7a659fd26c24dda93c4d1dbe1966b598eccc780692d7cb5a"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093321.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093321.jpg",
+      "bytes": 1588759,
+      "crc32": "5288540c",
+      "sha256": "79c7d3fbdff4b32246199c96e055ff526a93da1042a1400c0c641424722e4cbc"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093326.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093326.jpg",
+      "bytes": 1649695,
+      "crc32": "9bb21b97",
+      "sha256": "e2f7385b03215fc81a2f81b140c74b7b4882c6a906b440092423534ee1607070"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093332.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093332.jpg",
+      "bytes": 1765972,
+      "crc32": "aa747152",
+      "sha256": "75a86a7dbf33341bbceeb6ed25996e0e0526acad2cb8a54ffc04b5785045d5eb"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164751.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164751.jpg",
+      "bytes": 1467879,
+      "crc32": "7be82649",
+      "sha256": "b0062646c7fc350e65b8bcf068295f7a26a82e793c714d40b7dba6b926e8ec04"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164754.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164754.jpg",
+      "bytes": 1455718,
+      "crc32": "ccb63991",
+      "sha256": "478011b20de7a6bce3b8f0f0f4f542e6a3f74013703fbbf914e85699fb6571a1"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164757.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164757.jpg",
+      "bytes": 1499250,
+      "crc32": "24f84efa",
+      "sha256": "3ea24c3c77a885baf9bb3b0b3cf1a64d2ccf5271e0022ffd6d58b8c1bfaa5925"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164802.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164802.jpg",
+      "bytes": 1449011,
+      "crc32": "8885ca22",
+      "sha256": "2d60910896a1d986d27b88f894bdba954fe6613f742eda0e793e8855e69823a4"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164805.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164805.jpg",
+      "bytes": 1437582,
+      "crc32": "6df08e58",
+      "sha256": "87e2b0b99ddb57e02bc71dfa5583cef77e9910a401792d426be8c3b3870245ae"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164809.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164809.jpg",
+      "bytes": 1452640,
+      "crc32": "44a18ae9",
+      "sha256": "f567773b488ca92096689c13586d5394f4116b013e987c6adaa56da63e527e24"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164812.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164812.jpg",
+      "bytes": 1435220,
+      "crc32": "d158e212",
+      "sha256": "6ac57d857b6f38bf81557dd9766ec4059c650fd4aaa43b19290a1f07c8355e24"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164833.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164833.jpg",
+      "bytes": 1451720,
+      "crc32": "e2d90bd2",
+      "sha256": "a9ca8f21b50da3c445b1cdd2bfcc439bdeba8f864d9ab6867e75eddcbd7af02d"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164837.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164837.jpg",
+      "bytes": 1434526,
+      "crc32": "9b3e93a8",
+      "sha256": "25d10eaa62ce307122b5e85e2ce2c41e7d7bfd7aa19cf10162b8c07da556255a"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164839.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164839.jpg",
+      "bytes": 1396961,
+      "crc32": "2adc23ed",
+      "sha256": "2c531bda9d67bc3f0b581f6bfc2bb7fa5e75a98e9ce1d18d7fe5e2cab7d35828"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164841.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164841.jpg",
+      "bytes": 1451065,
+      "crc32": "d106e1c0",
+      "sha256": "5ea683f8cf7fa53e157e4cd2bd343e81e962f93e9c974fd9e44ae7421afaacf2"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164845.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164845.jpg",
+      "bytes": 1454343,
+      "crc32": "08f0e94f",
+      "sha256": "1d6621ec2af576042fa2a5c8882f131e46def037d7ae2b264732f66aedd84d0d"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164849.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164849.jpg",
+      "bytes": 1477163,
+      "crc32": "3f99c389",
+      "sha256": "da23f0436eff34580ff30b18a261dba59a70209e05e829c0db06ae74f6da10b2"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164851.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164851.jpg",
+      "bytes": 1481845,
+      "crc32": "15b500d6",
+      "sha256": "f6744f9361e6dd6ddddcf5a6b8961e9c352d939fa229e6ac69b06599268d8b12"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164854.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164854.jpg",
+      "bytes": 1538517,
+      "crc32": "906fe020",
+      "sha256": "54007eee468cde78b6af375ee352e0024f53961ceb59693b09c0478b7e50ea9b"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164859.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164859.jpg",
+      "bytes": 1503661,
+      "crc32": "5d6540d7",
+      "sha256": "94c45f0439c2284a31f4a2b97c1ba434fad7d4a1fba1f0653216c57ccdcc03f2"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164902.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_164902.jpg",
+      "bytes": 1558056,
+      "crc32": "ae71829d",
+      "sha256": "4cfcf7a5024b1566fd6ca6fb3cd78dd2795a366b890937d521a967d5d650d304"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092506.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092506.jpg",
+      "bytes": 1596348,
+      "crc32": "e0c5d611",
+      "sha256": "82ecc7be53e0dec2895e6843f292c83edd3f904866c8a2b7fc8823d54324871d"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092509.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092509.jpg",
+      "bytes": 1589893,
+      "crc32": "816cc338",
+      "sha256": "70dcaac787c1d0a20b5dd0b2dbd60ecf1f5893bd2b2e546d4d4e2bf34d9fd1b2"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092513.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092513.jpg",
+      "bytes": 1623214,
+      "crc32": "64314192",
+      "sha256": "10f96ebdaeda29000a24287584efcf9d7dcc7b6f61e3865ff115a404b9c97a6c"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092519.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092519.jpg",
+      "bytes": 1570859,
+      "crc32": "e7548cfd",
+      "sha256": "ca2cfde855fce1c440c451c5eda1f092141933837a6259f0e832a9731356c5fc"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092523.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092523.jpg",
+      "bytes": 1584883,
+      "crc32": "9e4b9f4c",
+      "sha256": "5f2abe26172fd8dd6c855f1c99a7c8ac7ed709ee25c652e370fc99147ec1f9b9"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092529.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092529.jpg",
+      "bytes": 1545573,
+      "crc32": "061afcda",
+      "sha256": "13405d6d01904550847b9d7b3ca1ae56dbf14c68cb00ffbbe419357a0057277d"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092543.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092543.jpg",
+      "bytes": 1503704,
+      "crc32": "d1970f1a",
+      "sha256": "c3525a38e5ac66358e53a3c1ca65ed368dd453f6744a96e9dcd311fa2a81e2fe"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092546.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092546.jpg",
+      "bytes": 1526844,
+      "crc32": "aea58cae",
+      "sha256": "9c328cce7f3bae794f56bdb16db49661fb1b8c1fe0d31be62c7e2726a3ca220b"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092551.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092551.jpg",
+      "bytes": 1535427,
+      "crc32": "683a7af4",
+      "sha256": "17b5b83522c89a5175c79241ebcf4f42b15abdec0f8b5524b8d3051a756c70a0"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092559.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092559.jpg",
+      "bytes": 1601446,
+      "crc32": "c35b8473",
+      "sha256": "6a3dc5764d4f8a7029a020eb2ac8f793bd5bfa2841612c38a839eb9e74a2370c"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092604.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092604.jpg",
+      "bytes": 1604136,
+      "crc32": "606d1a03",
+      "sha256": "8f7535bcd2bec5e16ff950867046506b7a8953f6e6e69d987cec36ba9eab5a63"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092606.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092606.jpg",
+      "bytes": 1605194,
+      "crc32": "a75dd272",
+      "sha256": "d5eb65cae4debd52f6f299ebc0211c8686784659824f5e5e51d24017051a8eb1"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092610.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092610.jpg",
+      "bytes": 1703286,
+      "crc32": "a030d664",
+      "sha256": "fc7085b3339d12f578b702a18182fc6da851512ee7956f62111d79efe9c7219d"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092613.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092613.jpg",
+      "bytes": 1636688,
+      "crc32": "34758494",
+      "sha256": "4887bb098b8e723bdfbbe943a34a9e8e465cf737eb1b3ccbdc0c355e87ab56c1"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092615.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092615.jpg",
+      "bytes": 1634496,
+      "crc32": "f7032c9a",
+      "sha256": "e09cf061cd865753fbe65606e929ec73ef5a4cb0783c20f176914d7308802496"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092618.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092618.jpg",
+      "bytes": 1657026,
+      "crc32": "934c6cfe",
+      "sha256": "4f73fe7ad1e145a375ecf91d45e9e751c5c154786d31fd322762de0b72a368b7"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092621.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092621.jpg",
+      "bytes": 1729439,
+      "crc32": "071ae2f8",
+      "sha256": "077fd02d49fc4461b36fb8479a1dfebcbc9bce23505d6886ed46eb35339c6c89"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131206.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131206.jpg",
+      "bytes": 1515268,
+      "crc32": "8ee06a91",
+      "sha256": "02e96eac07b2c71cc47037c60f385f65a6fb57cd170e7c712e7426ab3cfd5149"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131208.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131208.jpg",
+      "bytes": 1546139,
+      "crc32": "ade5284a",
+      "sha256": "c562af2f854ae50c950db2265038d9acb073a57bb9c678fa5ff3d79244461d60"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131211.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131211.jpg",
+      "bytes": 1636043,
+      "crc32": "28e449d1",
+      "sha256": "39918d9fc32dbddcc8f2585ab02b3f0010471e67240a7688af495d05e1a8e2cd"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131214.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131214.jpg",
+      "bytes": 1584570,
+      "crc32": "cb5f74ee",
+      "sha256": "1bc71e0864853202a02009442d54bf4dbb61fd97ebcd91832abe16da0986b6d1"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131219.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131219.jpg",
+      "bytes": 1506927,
+      "crc32": "f41834d1",
+      "sha256": "276be28d207b4e3916385fbb8b12c2d1df672aea6dad13cb4abb4ec5c7a7ed07"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131221.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131221.jpg",
+      "bytes": 1535301,
+      "crc32": "7a20f949",
+      "sha256": "deec7f9780e82580ec4f0c81a5b94a884e1cec2a7725fc9f77f76630d7ba4c62"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131223.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131223.jpg",
+      "bytes": 1489362,
+      "crc32": "32619881",
+      "sha256": "b508e6bb0a5c1be216877c11ddc80c30f69aead07ff37c3891a1a39b998b78ae"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131239.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131239.jpg",
+      "bytes": 1550927,
+      "crc32": "552322dd",
+      "sha256": "bd2b840b2918619dcb07636b9b65875074e64c228e1a3076cd4e3b2a28843152"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131243.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131243.jpg",
+      "bytes": 1546586,
+      "crc32": "0da083fa",
+      "sha256": "8ccd30a48913f5fc70f4f0a7a0bda35368967e99c17e1c30a1d312d4bfa4b752"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131247.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131247.jpg",
+      "bytes": 1534805,
+      "crc32": "8bf5feca",
+      "sha256": "87d718b6fb9706336c1a557ead75df61d43301a402b48545163a4092d6090dd7"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131254.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131254.jpg",
+      "bytes": 1565665,
+      "crc32": "54d18a9e",
+      "sha256": "f2ac01a28686aa4ea58e9fd4b3773868e9bb39e7725df4737cbfae3601bfc65e"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131258.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131258.jpg",
+      "bytes": 1531382,
+      "crc32": "d23d747d",
+      "sha256": "ea44876dc56a5d098a77e5aa6e79b58230dd5ca25ca590081af4f09e72c7b4f8"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131302.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131302.jpg",
+      "bytes": 1628938,
+      "crc32": "c94dfc18",
+      "sha256": "7bf43e22ad5a792a71e480459d7d704f751f5a3e1d587a023eb24eb75fe83a3a"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131304.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131304.jpg",
+      "bytes": 1642076,
+      "crc32": "173fcfe8",
+      "sha256": "82b850eb358d881cd0e7e15cdc38f8d32356f7a4718e55c581c82a31e6c9bb57"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131308.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131308.jpg",
+      "bytes": 1631670,
+      "crc32": "d38885b9",
+      "sha256": "84c9e9016363523ea6e92c3590ae5062688f316d7e110a1eb84a7c97046be675"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131310.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131310.jpg",
+      "bytes": 1655464,
+      "crc32": "199d8c78",
+      "sha256": "2334fdbe2c42bea6ae0cc85a498dbc4d05eab687d86b1fb52fac83b1ccccdf87"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131315.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131315.jpg",
+      "bytes": 1760676,
+      "crc32": "ee39732e",
+      "sha256": "e4703ef5a02823856e6da28f8dc91c25ef68dde9ab3cffd0fa325f59035dad0a"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162030.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162030.jpg",
+      "bytes": 1530310,
+      "crc32": "d67b0b26",
+      "sha256": "c176bf675facaeae7a29e4e7dd9d921689ae04d621740fb4d06a8648b4527572"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162037.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162037.jpg",
+      "bytes": 1548987,
+      "crc32": "1ead3a6e",
+      "sha256": "c2af5fc504db7c17aae0fd5db73ac55097634df2387c6ff20cabcca2b2ac12f7"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162040.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162040.jpg",
+      "bytes": 1565171,
+      "crc32": "5675b5a5",
+      "sha256": "709d94a41bfa1b3c3b4b3b6ce0a8b4abeeb1bf08b5924a97ab5c20ce9efbf56a"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162043.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162043.jpg",
+      "bytes": 1588176,
+      "crc32": "5feb8cf1",
+      "sha256": "0bfc016523119017fdb5aa48a3deefb91f303866d6a5f9b781d4a7fb4b34cbe6"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162046.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162046.jpg",
+      "bytes": 1532499,
+      "crc32": "3314c388",
+      "sha256": "5c6e27cb99562ad6f1b916547c673dea9223304787e211749511fc57656f023f"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162055.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162055.jpg",
+      "bytes": 1507528,
+      "crc32": "db3784aa",
+      "sha256": "0e9f7a46b5ad4a0ef2718e06cfb051e9c15f28f0c5b2eaed901e9fb15d8c2a87"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162057.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162057.jpg",
+      "bytes": 1496318,
+      "crc32": "05e80031",
+      "sha256": "be1571d7453207a99d87eceb67ad0ee985875f56421f194db405f7fe8cb1020d"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162110.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162110.jpg",
+      "bytes": 1469724,
+      "crc32": "318a4903",
+      "sha256": "cbd77d9e0a1e3444398ea6e1a54a5051e6670fa3b7567310a8a93826b0a83e2c"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162120.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162120.jpg",
+      "bytes": 1484092,
+      "crc32": "b50977ad",
+      "sha256": "22cefcd4e3201525412a31e657ae073fc37afedc85af2ef291ef978d07f98525"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162125.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162125.jpg",
+      "bytes": 1508783,
+      "crc32": "13bd8f4d",
+      "sha256": "2dee117c038d14303459c7dfc130cb49df68bcae9c401aad80c1e2fd610440ed"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162127.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162127.jpg",
+      "bytes": 1510202,
+      "crc32": "5fde9efa",
+      "sha256": "63b5d7daec9d388a2211336b6ab64f2e24b6d48ba04c3a4c0c002f8d8ce0f858"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162131.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162131.jpg",
+      "bytes": 1505633,
+      "crc32": "37274ecd",
+      "sha256": "7dc1774865c5dee9cfbb0ebaf2f96923791ecb40f429efe2d8c614e1b645adfc"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162134.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162134.jpg",
+      "bytes": 1593760,
+      "crc32": "652f7e00",
+      "sha256": "01ecb2158b30460f0c6a685efeced79142ca839a6bf70b497a85bed90b07b1a3"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162139.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162139.jpg",
+      "bytes": 1621397,
+      "crc32": "aef0cc6f",
+      "sha256": "a31a9034c62136bd37281b7f95a6d5d3241ecdf42bffd5f118506ea392ae14d8"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162144.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162144.jpg",
+      "bytes": 1628793,
+      "crc32": "d53b9ef7",
+      "sha256": "cd2911b4b3446f586ca17148b77d9c1526e61f076be1f4a471fa6cdcd25d12e9"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162148.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162148.jpg",
+      "bytes": 1647668,
+      "crc32": "074c461e",
+      "sha256": "1559e8dfa1db5fc6342c49d73755dd0c775d9219aa7b27ef5b39b6b71df878ee"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162153.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_162153.jpg",
+      "bytes": 1711260,
+      "crc32": "c96317a2",
+      "sha256": "9c02c3c2a8273d087355ef420fdaf709ebbb9d231a1def8164836111a86d7949"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085017.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085017.jpg",
+      "bytes": 3578271,
+      "crc32": "3902c072",
+      "sha256": "9c663c94ff5c165543f0079f5ce880c3f60cabea16d314992387e7b4b2ab1422"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085023.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085023.jpg",
+      "bytes": 3618277,
+      "crc32": "76a1dfa9",
+      "sha256": "68b2d086fd8c97ba3e7ca7e14769652688b36196bee8ef05af7a1ca4aa40fb2c"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085026.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085026.jpg",
+      "bytes": 3255574,
+      "crc32": "d2cadcba",
+      "sha256": "5f7b062c174e90028bb5ea64c05f32c9e39b237e749ed13776c4e5053c1922f8"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085031.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085031.jpg",
+      "bytes": 3532655,
+      "crc32": "ae4efcc3",
+      "sha256": "ae353760dec72829f7b6c646e5379a3476ac36a737fdb776ccc2615b98c6b75c"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085038.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085038.jpg",
+      "bytes": 3382056,
+      "crc32": "5d8f5229",
+      "sha256": "01c7d0b5a623ae781bdb55717bd23e032bc34dacd8ec8e217e315c6f38489c0f"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085042.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085042.jpg",
+      "bytes": 3457547,
+      "crc32": "4b102fa9",
+      "sha256": "b3b9a74fa4ba5893279ce0c2f42b2803234c669cdaf79f68da825098785e8603"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085047.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085047.jpg",
+      "bytes": 3363772,
+      "crc32": "8601faad",
+      "sha256": "9141f7511ec9a7076e962849cbdc826945d2d9c35e4e9ea47fb94a5e6da9aa44"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085050.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085050.jpg",
+      "bytes": 3323388,
+      "crc32": "4f0ff716",
+      "sha256": "757bf24b20a0e2da911c704c9a7c25cb7036def5ab167bd1d161f55de6740ecc"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085056.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085056.jpg",
+      "bytes": 3401146,
+      "crc32": "b604249b",
+      "sha256": "92c6e3a0735dd574916fbeb433504ef693c33108fce6c46a827985fcc42affb0"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085058.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085058.jpg",
+      "bytes": 3463760,
+      "crc32": "1c945a68",
+      "sha256": "b7bf9979e6d512d97e76f5f8135db03adc82452bd06a0898daed686bd77e2346"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085102.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085102.jpg",
+      "bytes": 3453025,
+      "crc32": "b8db3c66",
+      "sha256": "42528d0c7ffbcac5fa4bb896ab44a1b4aa809d6d1f530e4e43c4db14fb5c6a3e"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085105.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085105.jpg",
+      "bytes": 3365489,
+      "crc32": "8117bb77",
+      "sha256": "ba053541af3d4eb9fe5d98480b7ae21d8ba79b6ede7ec3225066fd23b50fa1b0"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085110.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085110.jpg",
+      "bytes": 3539644,
+      "crc32": "d261a008",
+      "sha256": "b36dbfef1aafd41dfdef4ca2f84fed9c86f0857d83eb40fbf300d6ef2560123b"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085113.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085113.jpg",
+      "bytes": 3397818,
+      "crc32": "0d34ee69",
+      "sha256": "90847cd0a4903b705855b4caea95ccdb3538dddf54b1efa8425bf8950e0a875a"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085116.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085116.jpg",
+      "bytes": 3258327,
+      "crc32": "eeaa99d1",
+      "sha256": "123c511f5d0ea0905a2d8376a84d2a52711db01b8b2602a14bedbd241852538e"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085120.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085120.jpg",
+      "bytes": 3100957,
+      "crc32": "7c01708b",
+      "sha256": "e383c2e4d1bbf02b8b7778791e2970dcd938d1374de3a5cb701db950edfeefa3"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085126.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085126.jpg",
+      "bytes": 3632913,
+      "crc32": "c87078ea",
+      "sha256": "a328e222e0fd0a5e7f316700f366961bb384aba9593d0f703fc5e873ecd35217"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134003.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134003.jpg",
+      "bytes": 3272717,
+      "crc32": "d581eb90",
+      "sha256": "d4897c39563eba0871970ac9170b07c8bea1d2797a815c1d9cdd629f6d16230c"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134006.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134006.jpg",
+      "bytes": 3340722,
+      "crc32": "1728ffb2",
+      "sha256": "04997fec69a7e110c262d10f362d108f139a7862a721f9d47e5d22ca3a906c75"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134009.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134009.jpg",
+      "bytes": 3514121,
+      "crc32": "f7f397a1",
+      "sha256": "38c0c4d7b9c685b0d1fe967ee032aaba0c469eb09c459ff01f0980ac79beb4f2"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134014.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134014.jpg",
+      "bytes": 3288033,
+      "crc32": "dd594c82",
+      "sha256": "56f85eae55381008f840b466eb4eef249269d6ed04c260c52698aa5209a9a125"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134018.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134018.jpg",
+      "bytes": 3238163,
+      "crc32": "a27658af",
+      "sha256": "9c2584c369c09770006888c2aa66eb61e3544d4f30456638ed1a1a0a0e0359f5"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134027.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134027.jpg",
+      "bytes": 2976119,
+      "crc32": "1bc810e3",
+      "sha256": "6c1bbb91de043f4fe0c9209c2abb9031d6d4540f8b1da78fe82aaa9a0e5f76db"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134029.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134029.jpg",
+      "bytes": 2972810,
+      "crc32": "a5795826",
+      "sha256": "d064b20c7de5ec18c9e5472c8249e0f4fe3ac420b39dd8185907e611d06a7dc5"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134033.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134033.jpg",
+      "bytes": 2932053,
+      "crc32": "c4aebb63",
+      "sha256": "279be7b2ce44c53be55441a9c7e9e24ba890287231f6ca304c248c80788a335c"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134037.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134037.jpg",
+      "bytes": 3033127,
+      "crc32": "94599bdf",
+      "sha256": "840da90fc7cec8b67cc79b54da1d1cc8a18b7e0ee81eda3ab0cf2d5a368d27b8"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134039.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134039.jpg",
+      "bytes": 3040714,
+      "crc32": "baf55805",
+      "sha256": "57904af0984d4bb0c7312d1fe8faf98d068f1d4b6b4413499059e569706b02cb"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134043.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134043.jpg",
+      "bytes": 3061907,
+      "crc32": "3a2dcf54",
+      "sha256": "09dbc3a5acb3e24ad5738a4281b558fd72329d982ec84470ca1734cb779c0cc6"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134047.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134047.jpg",
+      "bytes": 3028070,
+      "crc32": "bf3ce0e8",
+      "sha256": "280c63c17011e90b9e4659f8edbbfc8524640e6fa32ba2e271f2d1f3cd77741c"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134052.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134052.jpg",
+      "bytes": 3065569,
+      "crc32": "3ffb8b20",
+      "sha256": "849c40b3635e537c848dd0bdaca6da770750514734e7058d5f90dede0debf021"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134057.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134057.jpg",
+      "bytes": 3006828,
+      "crc32": "5cd2e5ee",
+      "sha256": "c3a4494d313724c110528c618cc50fd9e9f1f5e03acfc5327f595c5aab89165a"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134101.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134101.jpg",
+      "bytes": 3076452,
+      "crc32": "27f3a336",
+      "sha256": "1a1e3f3b4672507e2d59a87b0385fc29f25e78ae79671ffa730487cfed7aefa9"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134105.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134105.jpg",
+      "bytes": 3432346,
+      "crc32": "65ae1d78",
+      "sha256": "fd172b16513e4fa672052e5533ed87b86add4c43bdd946a6d0c9f7c425061087"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134110.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134110.jpg",
+      "bytes": 3510339,
+      "crc32": "c89765fe",
+      "sha256": "bb9104a9cae3ebbb36ecff1cd5d5f69b2745b2bb90218724d575abc75c260297"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163718.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163718.jpg",
+      "bytes": 1498498,
+      "crc32": "e888f6d7",
+      "sha256": "2d15845f4718ad498bc083f4ba97cffa30c38fcf4463ae1dd0e5e2e4a78bbb66"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163720.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163720.jpg",
+      "bytes": 1436639,
+      "crc32": "c8f86a38",
+      "sha256": "743f0d9212eef7d1bb74f5d9a072165033a49184400181769db3a114519968e5"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163723.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163723.jpg",
+      "bytes": 1491966,
+      "crc32": "403c3723",
+      "sha256": "37122b0d161742eea06db986393d3cbe9caa8702a140fd710026c6bbd4c99786"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163726.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163726.jpg",
+      "bytes": 1487088,
+      "crc32": "e36f6894",
+      "sha256": "c90d8ccf6ef0c1993021cd93270666baba1b7925bfb9460e074f31746aa88cfe"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163730.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163730.jpg",
+      "bytes": 1479878,
+      "crc32": "d9317670",
+      "sha256": "a87bd137e72dd401ac87fb35ae3ae6c835ef1b99113de2197e50545eb696b57a"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163733.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163733.jpg",
+      "bytes": 1425741,
+      "crc32": "532e8c89",
+      "sha256": "ba00568810f618798c6c50cd4d6c75e24c496a36274ad55c66ec199dad513d30"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163745.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163745.jpg",
+      "bytes": 1421252,
+      "crc32": "211ab28e",
+      "sha256": "9992f66b8dab16cec00d0834a0178688b61bc9650ba7203218c199aebfb45f38"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163748.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163748.jpg",
+      "bytes": 1351677,
+      "crc32": "fcc2a605",
+      "sha256": "f054186f5b59b554895716a47b5e25882be86fe799475af5e5c32d161cc0e00b"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163754.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163754.jpg",
+      "bytes": 1411770,
+      "crc32": "299a0f36",
+      "sha256": "843954ef2949dc2799ff250705e47b9ef7b3f5bd0ca5ea86f5fc481dacb9395a"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163757.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163757.jpg",
+      "bytes": 1413802,
+      "crc32": "b541b886",
+      "sha256": "e763306ff439069f4aabffb0ed2b5b289d019c8a31a8867eb6f903e1a1fb4e1e"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163801.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163801.jpg",
+      "bytes": 1508654,
+      "crc32": "a12cf339",
+      "sha256": "bc89dc4f911ceffaa0ad176c1079c87051eb64c8d9b8419992560252577e89df"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163804.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163804.jpg",
+      "bytes": 1475830,
+      "crc32": "15d30005",
+      "sha256": "3db7f4a0031ac749400bbc0b3082a3816c3c39e09f77f0b8b8dbed7d9ce699c8"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163811.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163811.jpg",
+      "bytes": 1458107,
+      "crc32": "5a5c2b62",
+      "sha256": "9bd40da5f862b7723534258c59866c83c839e3197d725e9538cf76c8e38c70a2"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163814.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163814.jpg",
+      "bytes": 1504095,
+      "crc32": "733dcf12",
+      "sha256": "835d8eaaea3012ccb0256b70ec22a583e9a326ec4fc6e87ef5e8756d15ff6c94"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163817.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163817.jpg",
+      "bytes": 1538277,
+      "crc32": "b184fe7f",
+      "sha256": "d6ac8077abc7b9597e4679ec8a6a5192c7e0a792960510438b6f52f7bb202b35"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163821.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163821.jpg",
+      "bytes": 1540611,
+      "crc32": "02704d8c",
+      "sha256": "f209af0e8cea33c0a2befa396a38fad96d05592c63d63c67a3896389e82b04b9"
+    },
+    {
+      "archive_member": "TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163828.jpg",
+      "image_path": "data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163828.jpg",
+      "bytes": 1663476,
+      "crc32": "8afab4ea",
+      "sha256": "791f7384c2b4ff586115d0915483eef32d5ae49b223c386013d27ca813db3c7c"
+    },
+    {
+      "archive_member": "TR-6/README.txt",
+      "image_path": "data/raw/tr6_banana/TR-6/README.txt",
+      "bytes": 1481,
+      "crc32": "f5c644b0",
+      "sha256": "e83cfb8a5897549449c32e517738b4897b2726a947a04bd82ee07f44e2d5febb"
+    }
+  ]
+}

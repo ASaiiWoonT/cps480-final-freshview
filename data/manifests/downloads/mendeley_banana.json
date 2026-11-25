@@ -1,0 +1,2812 @@
+{
+  "source": "mendeley_banana",
+  "version": "1",
+  "doi": "10.17632/bdd69gyhv8.1",
+  "source_url": "https://data.mendeley.com/datasets/bdd69gyhv8/1",
+  "license": "CC BY 4.0",
+  "archive_url": "https://data.mendeley.com/public-files/datasets/bdd69gyhv8/files/de93ba06-6a58-45e3-913d-837b2ae52acb/file_downloaded",
+  "archive_size": 2794170228,
+  "verification": "ZIP member CRC32 verified; local SHA256 recorded; full archive hash NOT verified (partial download)",
+  "files": [
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (1).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (1).jpg",
+      "bytes": 109136,
+      "crc32": "de5935cf",
+      "sha256": "59d612aac3e022a4a00f6548ae7fe0361fab3c65042d124d27b4fb113ae07c1f"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (10).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (10).jpg",
+      "bytes": 127912,
+      "crc32": "eadb90b3",
+      "sha256": "354a42ca4a9876437b235c336912f0ec17434c012af417f9b2872ef7ed0a3eda"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (100).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (100).jpg",
+      "bytes": 142666,
+      "crc32": "29d12716",
+      "sha256": "05290a0c29f814d791f72359466884bf8cb9f16b9e1ed48f78a84bf6318426d9"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (101).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (101).jpg",
+      "bytes": 119767,
+      "crc32": "14e970ca",
+      "sha256": "a09d4108466a3eb91f3812fa44c0e9c01d79d6b97ef1b89801a717fd82e642e9"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (102).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (102).jpg",
+      "bytes": 132192,
+      "crc32": "c72f3dff",
+      "sha256": "ba3875060692aaf2af7a02d9bfeb09521ac24fc9dcd373e47f43cac20d86cfb3"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (103).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (103).jpg",
+      "bytes": 144143,
+      "crc32": "6456452d",
+      "sha256": "15b892d17bdee1fc05a641ad0e8ed84a446f70aeb074515bc79160409d354ea7"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (104).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (104).jpg",
+      "bytes": 132307,
+      "crc32": "1d6b2b7b",
+      "sha256": "92956d7df9e9242d39ea5be2936a43cdbcd62f9b1967368b999f994935a51bf8"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (105).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (105).jpg",
+      "bytes": 145619,
+      "crc32": "b88cb371",
+      "sha256": "0037c9fcd0ad1309d448a8056fbe2679ef7b0ab0fba32d4a6e22b664d0d2caf0"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (106).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (106).jpg",
+      "bytes": 116636,
+      "crc32": "3f83a6df",
+      "sha256": "b8ed657e1afb0a2dd1f848d4ccc3fbf40fd14f222b1a092ce6039166ce5c904e"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (107).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (107).jpg",
+      "bytes": 139621,
+      "crc32": "5b4ba03f",
+      "sha256": "24319c8a3162ab5db2dcc24d1a214d2f30f568d5f232ecb620aa693759f52bee"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (108).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (108).jpg",
+      "bytes": 119994,
+      "crc32": "e83c64e7",
+      "sha256": "d14542a1338e3f9f95e4583b65d42ff32e9ed8c12029eb4bf2053638caa0175e"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (109).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (109).jpg",
+      "bytes": 112096,
+      "crc32": "be75bf71",
+      "sha256": "93b857748575a8b6cea68f1482b9e643455f2c57056e327f814e4a4cc61f5b94"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (11).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (11).jpg",
+      "bytes": 124112,
+      "crc32": "1ec3bc57",
+      "sha256": "3c2111b658af3e6f2764fcc556a936de54f8d6f2ed15ea125ed4260fbfaaff98"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (110).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (110).jpg",
+      "bytes": 55337,
+      "crc32": "fe426814",
+      "sha256": "9c5848fadbb33a3dc83b9be27660ddcb59114c2863fb0311e73e09ecdbfba5e4"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (111).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (111).jpg",
+      "bytes": 116651,
+      "crc32": "d83b4157",
+      "sha256": "ebe88679cb23e715559cfefb22ea6e8ee8e6ab7cc0a72552d4ef3278a26d8f6f"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (112).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (112).jpg",
+      "bytes": 90736,
+      "crc32": "e233fd9a",
+      "sha256": "0cadf24d310522d18219a884430b476f7a461febbf62e2b8c484bfca2665f90f"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (113).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (113).jpg",
+      "bytes": 104477,
+      "crc32": "75729582",
+      "sha256": "f5170d1b82dc4089d2d075709086a261d9446c3e45fb74bbfa39aa5a75b38b61"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (114).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (114).jpg",
+      "bytes": 107177,
+      "crc32": "70123da6",
+      "sha256": "887c0febc7509b795bacde955dcde981c44cb5bdfb17aafcb20d2c6498d22488"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (115).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (115).jpg",
+      "bytes": 123474,
+      "crc32": "b2773e81",
+      "sha256": "b25612923404faff2aafb8ee2216104274d01bc8bb57b68f401a234fd4c8a737"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (116).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (116).jpg",
+      "bytes": 92358,
+      "crc32": "cae4806b",
+      "sha256": "f9f1deecf0ed4b1b95e4685539902e4f5784411ac7dfae85baf9bad09df29854"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (117).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (117).jpg",
+      "bytes": 69339,
+      "crc32": "93d6ce2f",
+      "sha256": "e4220adf663cf9d1e2ff94e73cd86362879b7a966fc5d53e10731280d512913f"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (118).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (118).jpg",
+      "bytes": 69882,
+      "crc32": "5e95b2f5",
+      "sha256": "195753247ea01cbe4aa009096bb30aa95a91b0b11cac702f2595a62cfd979a21"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (119).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (119).jpg",
+      "bytes": 101542,
+      "crc32": "e06e4a38",
+      "sha256": "fde28dd37eeefd451578b580cd55791d94f7b5d578928b61934ec8cf08e9dd9c"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (12).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (12).jpg",
+      "bytes": 81394,
+      "crc32": "52c32895",
+      "sha256": "46bc22ef9f48fe292455f361678a43c03c0c10b09548826c2423bd3544ea942d"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (120).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (120).jpg",
+      "bytes": 115662,
+      "crc32": "68b35686",
+      "sha256": "48aab4816a93ffeb1b4549176c35ef6637194b75adb2fbef026a9cb4b5d0ea4b"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (121).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (121).jpg",
+      "bytes": 95336,
+      "crc32": "d6df0307",
+      "sha256": "4bb3dd60700c85e375b8bc36b4c916406a0ab3c07a281bd178e04c59c5c0cdcd"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (122).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (122).jpg",
+      "bytes": 70390,
+      "crc32": "43543aa1",
+      "sha256": "d0a9edb694902b0c8dbea47ab48efcad4670009d498b708028825167ec71f506"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (123).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (123).jpg",
+      "bytes": 140946,
+      "crc32": "d0983f75",
+      "sha256": "316bc12e7f058776f536b273f8686a2e5199e725505e62db4288d61f898303b6"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (124).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (124).jpg",
+      "bytes": 124013,
+      "crc32": "5b11b1bb",
+      "sha256": "f2abe8d7163cca2a5d1549a68754d7600bfcb28f726ff68e97976603423c44cb"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (125).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (125).jpg",
+      "bytes": 90593,
+      "crc32": "8da7d378",
+      "sha256": "d6b2c142a2af9a43e9d01bcf208d7ffc26bceabd97f506af95505c62bc569299"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (126).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (126).jpg",
+      "bytes": 115470,
+      "crc32": "19bd999e",
+      "sha256": "a2aba538cbd8cdcdaf1004ee14bc58d36323dcc9116a641b39052b8997d6e82b"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (127).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (127).jpg",
+      "bytes": 193477,
+      "crc32": "f7d9e5e4",
+      "sha256": "79b5fa504daadfde7ae606bcb5374d9e1989c5b692df6708c70a6748ffe44a22"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (128).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (128).jpg",
+      "bytes": 127689,
+      "crc32": "cde63ff9",
+      "sha256": "2b9cae65b1bade7eeda1a41da49ce04abe1fecad052e6ef2f2d6204ba252f0ea"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (129).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (129).jpg",
+      "bytes": 130047,
+      "crc32": "7cbd3464",
+      "sha256": "7e97aa4d984bc8d075572fdf4d0b06aa141c97652800ec45a4b11c23c32c16cb"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (13).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (13).jpg",
+      "bytes": 125761,
+      "crc32": "c1f16e2c",
+      "sha256": "1c0e2989699ce691c708f49f39b87efa921d8ece207eb0c12768ac611884a324"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (130).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (130).jpg",
+      "bytes": 129026,
+      "crc32": "61ba8909",
+      "sha256": "cf2b26431cf4118980edf983d3a614c545c256d33d3b9b089fcbe6e623a95a70"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (131).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (131).jpg",
+      "bytes": 123465,
+      "crc32": "8938e7b1",
+      "sha256": "41509923329a72dda83ef83fcafcd09b7dacee8aff3ce3fb724b882668759e2e"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (132).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (132).jpg",
+      "bytes": 140933,
+      "crc32": "8878419c",
+      "sha256": "ee516202ba57b5dde929bf71fe9d6f004a695ee6d27c33af2c4dc5023b399aa4"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (133).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (133).jpg",
+      "bytes": 98298,
+      "crc32": "4c3c2bda",
+      "sha256": "75e0783278e5ace967b7f297eee505886c38908f4dc59bb1c068c44e96255952"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (134).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (134).jpg",
+      "bytes": 157095,
+      "crc32": "ea311675",
+      "sha256": "0b9e96132a6f2bfda4d6f9e0478236329b99817dfb3fb0fd893c553cee5fd50b"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (135).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (135).jpg",
+      "bytes": 161306,
+      "crc32": "2de0f293",
+      "sha256": "4e3548e3f5943bba7fc33495d3f12f26a71007da55726de11b5b2583cc4b8de8"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (136).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (136).jpg",
+      "bytes": 137870,
+      "crc32": "6e7a7038",
+      "sha256": "fd335dd121c7c0b6dc5182f6810034e7faedbb93222fdfd619da805a461baa56"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (137).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (137).jpg",
+      "bytes": 147775,
+      "crc32": "81ae33e6",
+      "sha256": "43fed8e212fabc989c076421f15404b706c59cc947d9d3b9535b54e3c543d33b"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (138).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (138).jpg",
+      "bytes": 161917,
+      "crc32": "ae8a3cda",
+      "sha256": "6ce2fcba7a67bfbf7e1d42a4f9583b983f42e649792a6d55407e43926dc46e08"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (139).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (139).jpg",
+      "bytes": 153553,
+      "crc32": "647c2de8",
+      "sha256": "f7c0cffa84b4def94891bbd3c5b50bf887664fbb6097f1aa4555c53282abd62c"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (14).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (14).jpg",
+      "bytes": 71760,
+      "crc32": "e4a81949",
+      "sha256": "19235410ec1ed22f171eb1c4b8c603f0e303643ab81b455390290f9e87c86079"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (140).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (140).jpg",
+      "bytes": 170452,
+      "crc32": "d4f1c112",
+      "sha256": "23addbb1577d214b92cc58df7cfd87d3d1541bc21a56a586fbb95e3ee62ba1d0"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (141).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (141).jpg",
+      "bytes": 137361,
+      "crc32": "db1b9522",
+      "sha256": "ae558096dd5797699c102b03ea9ed6c306103b4c429c30583fe7a6698e600891"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (142).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (142).jpg",
+      "bytes": 124647,
+      "crc32": "8840d5aa",
+      "sha256": "7f334b1f28042d43a89cf40385d94b74e3fc7cc4cf957167d3b896fe79acf88b"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (143).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (143).jpg",
+      "bytes": 97241,
+      "crc32": "270b26fb",
+      "sha256": "02fb05bee133499129d44fd59474ad002f972016b329972cf04069e9c1109b00"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (144).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (144).jpg",
+      "bytes": 121286,
+      "crc32": "8f867719",
+      "sha256": "fbf2d4cc22ee7bba7acc1a123e6c2059dbcf92c5ead20f29b00b0b85ff50f404"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (145).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (145).jpg",
+      "bytes": 143832,
+      "crc32": "082a2537",
+      "sha256": "3c39893eb58295468ab17292842506b139fc69135521ecabe5b12e3647ab397f"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (146).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (146).jpg",
+      "bytes": 78218,
+      "crc32": "28098c25",
+      "sha256": "b3fe6aaefeeb707e5b3eb1dc53db228244bf7dfabc6a7c0ee70c0f31833d8cd7"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (147).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (147).jpg",
+      "bytes": 138044,
+      "crc32": "4454a72c",
+      "sha256": "b4eec388a311d8c5865281f33a480dc598aa9de3230ccb87ffd2382cccac6576"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (148).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (148).jpg",
+      "bytes": 151333,
+      "crc32": "f7d675e3",
+      "sha256": "d7f00699771b0736f1283a28e9f92f47ffb3c2e95ba05c94714e27ac9c3316f9"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (149).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (149).jpg",
+      "bytes": 107431,
+      "crc32": "1ee27dce",
+      "sha256": "5dd8e661e610ea7c9e03152d4c578bad7e103226c7afc366d6742f10197975ac"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (15).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (15).jpg",
+      "bytes": 46646,
+      "crc32": "bfb3f07c",
+      "sha256": "f08a3c4f38dc300b0ab7985b9c8fa71358550dec40093bf35101d31a2b6f9521"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (150).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (150).jpg",
+      "bytes": 100118,
+      "crc32": "7e713914",
+      "sha256": "c6f8afc35ad41362aafe18a088f07cb1998925bdd8ab101b89455a292b485805"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (151).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (151).jpg",
+      "bytes": 146426,
+      "crc32": "5a323633",
+      "sha256": "ac0a196b747e169914d8b86a7f462bcbe5e76ba9980f873a1270cfd911d0ef3f"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (152).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (152).jpg",
+      "bytes": 133960,
+      "crc32": "7ca5f15b",
+      "sha256": "5232d706fa78310375be0cd4019a49623a5a6828f89ac2982614e617c0c3c645"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (153).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (153).jpg",
+      "bytes": 146325,
+      "crc32": "059b1081",
+      "sha256": "5db96f70cb31ab70e51ba3574d0ce2e9bd2359d0d67f14c90c07511e22678d73"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (154).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (154).jpg",
+      "bytes": 96315,
+      "crc32": "ca97efff",
+      "sha256": "dbe2fa4f29f9fdddbb491dc4b4bce3a8b38e640a38cfbc0686c09996a94372e8"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (155).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (155).jpg",
+      "bytes": 135545,
+      "crc32": "c12c0fb6",
+      "sha256": "a54adfe177c113267afc254d096b4d1aa9ada52810f6da9298efe28993d9c8ab"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (156).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (156).jpg",
+      "bytes": 138586,
+      "crc32": "4f9ca104",
+      "sha256": "13a9782f3a63273c5ef359104c73b11c1b14291e3bf5ebe69c59738e98a3546b"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (157).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (157).jpg",
+      "bytes": 141319,
+      "crc32": "81178447",
+      "sha256": "7b2b2a72d3468dc7c9d6a1d64d72f9a7c133b544d5ce63b27112e9a88832e319"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (158).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (158).jpg",
+      "bytes": 156515,
+      "crc32": "6b2436e0",
+      "sha256": "ae665350ec5c8b942a8d3f9749159cd79e6e5f7f4230ac229a2f565e97dfccb4"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (159).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (159).jpg",
+      "bytes": 131065,
+      "crc32": "2d8d284b",
+      "sha256": "00c2ed8b2f2e847f3de65be58431cad340a2feab50ac29e806d229aa0a9d9763"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (16).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (16).jpg",
+      "bytes": 103147,
+      "crc32": "6f67a60e",
+      "sha256": "e6882213d7d436240f907657b8ecfa34a898ff3fffec08e42e803f3f965cb207"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (160).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (160).jpg",
+      "bytes": 130151,
+      "crc32": "02da8ec4",
+      "sha256": "f520d06f0ddc3ea11e3f678d2e3e4e05d92634a1ad1c4be4cddad7f163ccefa7"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (161).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (161).jpg",
+      "bytes": 123204,
+      "crc32": "a9855500",
+      "sha256": "bf75e4bdb41dc525aa94771afbcdb4ae7a38d66bb119bed8b23ee054919c2054"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (162).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (162).jpg",
+      "bytes": 140626,
+      "crc32": "c0574471",
+      "sha256": "73e00779a27c3c193da56a8bf0f8674e3d470cdf5a16f972983ce5c27e4db46a"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (163).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (163).jpg",
+      "bytes": 147412,
+      "crc32": "ee318706",
+      "sha256": "e08291c226299e00aa65cd760fbe08faf808466ecb09a0a600a4cf5680b60568"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (164).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (164).jpg",
+      "bytes": 132729,
+      "crc32": "0b02fb0e",
+      "sha256": "257f706db013c2a552d0b737c2fc215daef8bdc3a3e1d8ea2b160ffd7de4378e"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (165).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (165).jpg",
+      "bytes": 172996,
+      "crc32": "48e382bf",
+      "sha256": "80e530a639a0dcb396a9e16a66c230492883d68a9640ab221c06ba0af425d9b4"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (166).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (166).jpg",
+      "bytes": 166890,
+      "crc32": "73d5e0eb",
+      "sha256": "53e73a0aa85312792091b4b03a2a8dd7119a13b71273022ed789c15a714072aa"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (167).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (167).jpg",
+      "bytes": 113792,
+      "crc32": "d66c9093",
+      "sha256": "9f553554bfe31423cefb7d3df03f5dd06567608a9904a9edcad43d21ca4a7ffb"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (168).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (168).jpg",
+      "bytes": 106718,
+      "crc32": "b4a1ed19",
+      "sha256": "aadc9f15255382c2e0c010022b7d80324018f5b8dc6101fb616d893d3ec5f173"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (169).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (169).jpg",
+      "bytes": 123778,
+      "crc32": "41bd3621",
+      "sha256": "39d5cc1d3da22600d8be48d7315eb4e6051dd1f6808f3387954528111290a399"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (17).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (17).jpg",
+      "bytes": 201626,
+      "crc32": "80fdef94",
+      "sha256": "a628cd427a6b40ab21a4c136f69e5fadc5b6cac3ddbd284153f427cf77e8c6dd"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (170).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (170).jpg",
+      "bytes": 72841,
+      "crc32": "c7829ffe",
+      "sha256": "95aab4d6152577caf9153333d04e8cd322b5f4afba5eb41bacd359c5425be93c"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (171).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (171).jpg",
+      "bytes": 87640,
+      "crc32": "88808779",
+      "sha256": "a6956ad0c963168347902026a95762c7e86481730ca3e9ccb7540b710556ca1f"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (172).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (172).jpg",
+      "bytes": 109262,
+      "crc32": "e0315dbf",
+      "sha256": "c6dba19494a6a9782a2ef0b0c3078e90e3f43f29b343dd16eee8e8db3ea8558e"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (173).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (173).jpg",
+      "bytes": 109921,
+      "crc32": "1ff8673d",
+      "sha256": "0e11adf786ef309961dcc36a48b5384e9cc0cf6b5cf0d00a33cd71c2bd9af61a"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (174).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (174).jpg",
+      "bytes": 133040,
+      "crc32": "c5b0912f",
+      "sha256": "01826528d2feaa45406477a2233e1df41326044dbdc5136fd5cec7d08fb82a4c"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (175).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (175).jpg",
+      "bytes": 132238,
+      "crc32": "5f842ee3",
+      "sha256": "b9480a09a3ba8f5f996abe6c8675344f50be7d3d220a2fcc409c6e2919815c8b"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (176).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (176).jpg",
+      "bytes": 174837,
+      "crc32": "83ce9cc1",
+      "sha256": "643f66ce5fdfda3c9eacb4ebaf5c2f3cdb8dcfdb82d2533fdfc9720eceaab214"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (177).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (177).jpg",
+      "bytes": 142067,
+      "crc32": "aa5fe4ac",
+      "sha256": "f8b8a2e589753f318d5e9736f907be482a56ab5d61bd22e1ab04b2a36a50f4ef"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (178).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (178).jpg",
+      "bytes": 132510,
+      "crc32": "c11ffd03",
+      "sha256": "afc4da5e9558e6ffc6b08300f015bc1d7ee294f154ede492d3b6dcc275d8ac7b"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (179).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (179).jpg",
+      "bytes": 158562,
+      "crc32": "7aa2c410",
+      "sha256": "19473820629092a26b11ebc3095b44e6751c7d8db3f4f66a4b62eb1784e96370"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (18).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (18).jpg",
+      "bytes": 246012,
+      "crc32": "fae71e07",
+      "sha256": "d8c159374cb15a606f0122612e076d2b77f975f04868f7c1db06b78b26feeeed"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (180).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (180).jpg",
+      "bytes": 138573,
+      "crc32": "821f0e60",
+      "sha256": "3cf54de3f64e750a6801dbe50f26b479fd5d43ee7fe29a63ddcf1bdfcd29185d"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (181).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (181).jpg",
+      "bytes": 153725,
+      "crc32": "67795647",
+      "sha256": "a3811a8e36729109548479c7861ddc84402e12e35c4239f8828af23b804d261c"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (182).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (182).jpg",
+      "bytes": 136266,
+      "crc32": "e141e48d",
+      "sha256": "292ef57bc77fcb38c7b2f1e21e59c9eed17920f15b94d57427ed39cfca0152e9"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (183).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (183).jpg",
+      "bytes": 107656,
+      "crc32": "406302f8",
+      "sha256": "25f7875dd07d4885cce7e082b0308729ab2a7ced05fb99192456de1bdea864fd"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (184).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (184).jpg",
+      "bytes": 149186,
+      "crc32": "2bed6ace",
+      "sha256": "a02b06c3405565d589784731f26534a8e2af68bd578b9d05684bfbb646509bce"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (185).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (185).jpg",
+      "bytes": 138642,
+      "crc32": "29653014",
+      "sha256": "6c3527f915042cc32a1829ed4da2eba5388a6fa2adf6ec4d33babd242b1d67b3"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (186).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (186).jpg",
+      "bytes": 160043,
+      "crc32": "8be1dec3",
+      "sha256": "c3ae3adb00526e153b8fd863da592bb2018cfa18b6b3fc915be95d89d9985991"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (187).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (187).jpg",
+      "bytes": 140402,
+      "crc32": "92670a6e",
+      "sha256": "6c20158c4583584cf606355a99b177ca67f4a584c76ac310bb71972853d84311"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (188).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (188).jpg",
+      "bytes": 138333,
+      "crc32": "da91c508",
+      "sha256": "8fd6457ca4e04f868b02e5b8ce2e2224aceb4312eabb128604db3d145696bea3"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (189).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (189).jpg",
+      "bytes": 70727,
+      "crc32": "69a688d5",
+      "sha256": "cb56a171a8f04699f9e6d0c8bcd2dcce35d29a558a39c72461d76f14f90f3595"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (19).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (19).jpg",
+      "bytes": 73236,
+      "crc32": "e3b981b3",
+      "sha256": "f6658cfaf76c9ead7e99e9a65a1ad8997fb07475377e38804092b74b0700ac7f"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (190).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (190).jpg",
+      "bytes": 91354,
+      "crc32": "dd3ab5c5",
+      "sha256": "9ef80e6693ed84babb281c26267481039be476cafd86946430ec36cf181d9689"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (191).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (191).jpg",
+      "bytes": 168776,
+      "crc32": "582ab7a0",
+      "sha256": "33d56b0f30f5c243caa4eb0f6b6a4eeb94a43250c1b3a2b8246a4d0ca106244c"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (192).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (192).jpg",
+      "bytes": 122022,
+      "crc32": "ec4386f5",
+      "sha256": "cb1b73d75ec77ff7c6c84d62084e969af5d6e160a26885e7dbbc88c212c352a8"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (193).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (193).jpg",
+      "bytes": 136478,
+      "crc32": "f7b226cc",
+      "sha256": "b0de60645171017d7cc960e1caecf88d9e4d86d179f4310709d4f7db86d134b0"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (194).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (194).jpg",
+      "bytes": 120251,
+      "crc32": "89ded212",
+      "sha256": "a45becd902ad48e9aa13de3cdbadcd22d4fc8e856a1bb2c3a4183e3a59b530ac"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (195).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (195).jpg",
+      "bytes": 62015,
+      "crc32": "b84525de",
+      "sha256": "3859d72e526f24f10fce5ac4c11be7e87552176ac05672ef83efd229ccd7c011"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (196).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (196).jpg",
+      "bytes": 74718,
+      "crc32": "722ec6c4",
+      "sha256": "cbc97601a012ec291fdebf069c9733fa6ab3070bd9400987f0462d221653bf2d"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (197).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (197).jpg",
+      "bytes": 66271,
+      "crc32": "5c3f80fe",
+      "sha256": "087fde4a131254f87c927002ef69e43b743b2cdc929dd18e9f87f267d806d1e6"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (198).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (198).jpg",
+      "bytes": 72849,
+      "crc32": "0b730513",
+      "sha256": "8babcd6e27849ba7dfabca48a150d0ec6cf4e2c70658aa4c5251b059ca00d4bf"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (199).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (199).jpg",
+      "bytes": 57223,
+      "crc32": "e81dbc45",
+      "sha256": "01c613afa4b164906207715134fa1e4032f48842f4a301325a9f0b77eb9abc1e"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (2).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (2).jpg",
+      "bytes": 117196,
+      "crc32": "f9e850b3",
+      "sha256": "2c86ad71271bb1819c0686de5f76e54192966523de6780d90e99d58026389dc4"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (20).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (20).jpg",
+      "bytes": 70355,
+      "crc32": "8a28bb09",
+      "sha256": "43a2951ef2e4c0ece7cc331e599d3cb074c030b88596545373ff3e4337476b04"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (200).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (200).jpg",
+      "bytes": 76986,
+      "crc32": "082e6930",
+      "sha256": "59df03f1dbbf3aa6813e0fba650197d23b378c3365b63383396330e0d0f5794f"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (21).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (21).jpg",
+      "bytes": 70976,
+      "crc32": "382fcfd8",
+      "sha256": "df6da97e9f85f5e932f4f3988a2c1abeeb1e5a6200578517ad900a31a18d25b8"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (22).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (22).jpg",
+      "bytes": 146326,
+      "crc32": "bf170ef3",
+      "sha256": "a778af41d82b500829a70ec17c1acf524253ef13b6756722108928fbf0b28d5a"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (23).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (23).jpg",
+      "bytes": 147564,
+      "crc32": "a044364a",
+      "sha256": "e5b80ca0de4199d3c3597ba2041a2c70fd0e6a3c8bfff9318ddb0295f88e6687"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (24).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (24).jpg",
+      "bytes": 141553,
+      "crc32": "e21b3f33",
+      "sha256": "85bce5318f245a0ddb70e76722ebe191af77e5ee16fa0f79ceef7024352d1f50"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (25).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (25).jpg",
+      "bytes": 161618,
+      "crc32": "bb3280ba",
+      "sha256": "38ffa6f266beac99438749abb982240aa7fbff7a073f600628ed91bd0af521ef"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (26).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (26).jpg",
+      "bytes": 66192,
+      "crc32": "08d9066f",
+      "sha256": "3a7d4d795d8889044580599980ba78b8f7ab6d295d233d2a9b61227cbafd0282"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (27).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (27).jpg",
+      "bytes": 135094,
+      "crc32": "64e673fb",
+      "sha256": "99070403c251c328d053957329846c8f37dbe9359fd3cc80147388dba36f8f64"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (28).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (28).jpg",
+      "bytes": 68242,
+      "crc32": "e95bb38f",
+      "sha256": "2129dffcb4de56a887affc676fd64eda58eda5a099f3c6891d6d3a5e74577516"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (29).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (29).jpg",
+      "bytes": 73701,
+      "crc32": "5f2ae29f",
+      "sha256": "8addcc6bf478af182d4fc44b6948a4acc3ac864a413849c1f0e2e844d7622bb0"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (3).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (3).jpg",
+      "bytes": 81106,
+      "crc32": "9765f2b0",
+      "sha256": "24c35d8b6c2792d869a7e0cebed935c6c4b4859133b0bcdfe977d70e35392154"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (30).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (30).jpg",
+      "bytes": 70022,
+      "crc32": "9ac40d86",
+      "sha256": "e4f90ea6b2fcbe79719b6e93286b06367a1a26c112166f2cbb1f2fe2994e61a2"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (31).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (31).jpg",
+      "bytes": 132354,
+      "crc32": "8717f2fc",
+      "sha256": "9c6d11e4dd1a45893d8d354b9eb01ce9a7ac3aa7c54183acc9b45388f2c2bfdf"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (32).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (32).jpg",
+      "bytes": 140133,
+      "crc32": "0fde4acd",
+      "sha256": "55c025e3b266271ba67a783bb9f9fc11f2390d88711cfc91e489e6095dae2bf9"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (33).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (33).jpg",
+      "bytes": 110828,
+      "crc32": "7a0fc489",
+      "sha256": "f3d405465d1b6f003c7853487245811811db126dcc6383df4239d81e795de18d"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (34).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (34).jpg",
+      "bytes": 114026,
+      "crc32": "f3eae5a9",
+      "sha256": "194d0eb0bea395277393bbfe0c5b56c0936cccdc757a67e8a0234c26dd382e35"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (35).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (35).jpg",
+      "bytes": 35725,
+      "crc32": "58b1bf85",
+      "sha256": "fc7c9fb76e123f7844c0d76011da32b8f5ff926975b15b3cdc3597bd41e80679"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (36).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (36).jpg",
+      "bytes": 41939,
+      "crc32": "c4a8173e",
+      "sha256": "cbb02a1076e19205c635fbdeb2f7687cbd637fac683375815664c94abf477480"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (37).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (37).jpg",
+      "bytes": 95064,
+      "crc32": "2fcdc632",
+      "sha256": "9026d45b961d28132a45c138e9dc886372600b8ec6183e7d0e8bf6bbbc62468b"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (38).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (38).jpg",
+      "bytes": 116286,
+      "crc32": "36811d1d",
+      "sha256": "0d18e6898370bcda5ba362a53b96bb747c03132f60e8538395f581f066d7cfb5"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (39).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (39).jpg",
+      "bytes": 85601,
+      "crc32": "e1aba2ea",
+      "sha256": "97d810d056a68eee18ecfd223031d641720e2572d7b5ea178a7f17ed0b3653e6"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (4).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (4).jpg",
+      "bytes": 273506,
+      "crc32": "2162fddd",
+      "sha256": "32a5da25697eacf1dcf2fc0af9f21a690ee61b3c0c3a5dde9435e819e84860c2"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (40).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (40).jpg",
+      "bytes": 93391,
+      "crc32": "02c9c9e9",
+      "sha256": "792cb5c1c25e1999682782cd02a541a4deede266f9de11e09e0f9522526f9b98"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (41).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (41).jpg",
+      "bytes": 86261,
+      "crc32": "19d4a861",
+      "sha256": "c7617ed734e286727fe4486fc3a1aa48d7d2f9f1d6291212079fab99b38b8a49"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (42).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (42).jpg",
+      "bytes": 114799,
+      "crc32": "94ddfd73",
+      "sha256": "633f746861746b98b64a8e57168385a597e84e68dcf86921b2cff81a526fb143"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (43).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (43).jpg",
+      "bytes": 55391,
+      "crc32": "b1a926c5",
+      "sha256": "f477784dde8c7b60d2c8604f5f1cfcc52ec4b0b9f4d1992b0c454aab349f5344"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (44).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (44).jpg",
+      "bytes": 96913,
+      "crc32": "05b550df",
+      "sha256": "979882fc52efe029cc421a1d46244d552455596e184cd893f0e8e701813c39bc"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (45).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (45).jpg",
+      "bytes": 58531,
+      "crc32": "75d16cc7",
+      "sha256": "5507a29dbc0b35c68297725c2a3eb9529da6f8a49bce2a566909f5499acc93cd"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (46).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (46).jpg",
+      "bytes": 57802,
+      "crc32": "c0a0d1b4",
+      "sha256": "ee6646339853f7d0d8a4967c446a6454c6dd914df17f215185e95b8f00181909"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (47).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (47).jpg",
+      "bytes": 83936,
+      "crc32": "f644bdb8",
+      "sha256": "69902dc495831c36d8940b4e316e0938b607e8308fe037383db0bbb2514e3eaf"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (48).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (48).jpg",
+      "bytes": 98686,
+      "crc32": "48c36660",
+      "sha256": "6937371fb479c831650b777cc15fbee90408804cd73e444b5435382c3e1495a8"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (49).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (49).jpg",
+      "bytes": 100624,
+      "crc32": "8f726e62",
+      "sha256": "869d58b6983f4ced8f85dfe379a8dcc07faa517e2ae148f83276a932ac01f601"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (5).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (5).jpg",
+      "bytes": 119994,
+      "crc32": "cb8a2158",
+      "sha256": "2c97f64fa870bf38f33b1f47eaccf34d05c18d51d9f8260e0ad0ca9c0503235b"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (50).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (50).jpg",
+      "bytes": 111060,
+      "crc32": "01d8bacb",
+      "sha256": "eec7e207f282d12b82e2a15aa53ee326b2e1c1f04a2be85f5565287836b217e5"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (51).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (51).jpg",
+      "bytes": 66803,
+      "crc32": "6e373791",
+      "sha256": "2d61b552260e6c428f8af076a9d17d544d73e707477f0aa0c3a4ef9a3d19bae8"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (52).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (52).jpg",
+      "bytes": 105259,
+      "crc32": "491a023d",
+      "sha256": "55a6b2ce0d2acd7c9d7f5ea3278634ed65efacdf7f757a97b83d7667152c4a1a"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (53).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (53).jpg",
+      "bytes": 82447,
+      "crc32": "0c06ad82",
+      "sha256": "a63ed50eb382716fa6e23988894cb5410c4d728e8ffe1ba75c4b45c1473be772"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (54).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (54).jpg",
+      "bytes": 105854,
+      "crc32": "4b0ab689",
+      "sha256": "1bc8f9bb997775ffa40a43255bb91da142cbb1d359dd0d6fe9df5d5f15f1f653"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (55).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (55).jpg",
+      "bytes": 112282,
+      "crc32": "0097db12",
+      "sha256": "1151eb755169401efe883d5668f119ad3106b1fe4c4d0c78365bec50526b8fbf"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (56).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (56).jpg",
+      "bytes": 54991,
+      "crc32": "f1adc9a9",
+      "sha256": "75094f54e5a53a94e8422973881cb8fce511187fabfc16f9e80fa1004486900d"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (57).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (57).jpg",
+      "bytes": 60487,
+      "crc32": "11322c3c",
+      "sha256": "b2b04d1ed45acfda13c07602ccc9135f781881ad8fdbb5a4e28cd70a5652a037"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (58).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (58).jpg",
+      "bytes": 79862,
+      "crc32": "dff36635",
+      "sha256": "c0e58260c82910463c44fb2f2fe0e9de8d8367a95988094b88d1b5b5bd066268"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (59).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (59).jpg",
+      "bytes": 97416,
+      "crc32": "45e716d3",
+      "sha256": "7a1898ec1138affbce09058826ab0efb6ce46a1b3c44831d1b74294c706b1e5a"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (6).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (6).jpg",
+      "bytes": 66098,
+      "crc32": "90a8dd50",
+      "sha256": "ab3aee50bf80cf3045a1bae6586f13c3898229850d2a2dc9e2e547fa1dd6b304"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (60).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (60).jpg",
+      "bytes": 63267,
+      "crc32": "92910ab9",
+      "sha256": "704e05c4274ed717377aba2b3af99e0f82061da678f1fc42a66d7814084148be"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (61).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (61).jpg",
+      "bytes": 77774,
+      "crc32": "8f121125",
+      "sha256": "dd8a464e59a1d89e3e7e4dc074c33538e44c683f0e7bc00fd513a2971b665530"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (62).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (62).jpg",
+      "bytes": 53943,
+      "crc32": "0400d4de",
+      "sha256": "82c0f4d811e982793b45a5b5a08c2d3b56c410ac19094d7426cacdb06b46255d"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (63).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (63).jpg",
+      "bytes": 72592,
+      "crc32": "9610b231",
+      "sha256": "ef64d12c0c153285519b134718d93acb45559b01e3cc8fab80a7d6dca91560cf"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (64).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (64).jpg",
+      "bytes": 82961,
+      "crc32": "7f3cd6a6",
+      "sha256": "eba1fde58e6a289a13db8f71518b92c485b2200fd8cfd7a00a6dec518148caf2"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (65).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (65).jpg",
+      "bytes": 73126,
+      "crc32": "72d90c07",
+      "sha256": "1a8776ab3f225c782cc82cd8b08fb3514fa0eb88e85aa17fd5431511f93c788c"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (66).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (66).jpg",
+      "bytes": 85479,
+      "crc32": "27798a32",
+      "sha256": "8d4a553352600073d97b423a8b1829121ca9d556186974732ecfe0d9c72b2292"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (67).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (67).jpg",
+      "bytes": 80337,
+      "crc32": "06ee1b4e",
+      "sha256": "b495d6005abc8794876f4ef2223f464c9cde54496598eb41d8a2d74bf3024cea"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (68).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (68).jpg",
+      "bytes": 90153,
+      "crc32": "48bc7f5e",
+      "sha256": "413d50b7e051fb35a1a7c6bd76c12753c9c1833389babc254efa50802b728d42"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (69).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (69).jpg",
+      "bytes": 86067,
+      "crc32": "b506bf28",
+      "sha256": "8607e3426f987f173fa4824c30f685591cff00d0be86519cb4b83d8bb9de8e03"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (7).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (7).jpg",
+      "bytes": 222368,
+      "crc32": "30228419",
+      "sha256": "f744b8e2e0febb4cc21d064c62c6551d5cef231a31718caa024a200c19ab0c59"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (70).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (70).jpg",
+      "bytes": 73966,
+      "crc32": "95c2f8a9",
+      "sha256": "da21d193fdc98ca927f6199263d49f3752672e158499165113c87181ec9f1c83"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (71).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (71).jpg",
+      "bytes": 96205,
+      "crc32": "99b56601",
+      "sha256": "b053cf5f396284aeaed0605157da7b8c81265c4f3c7c78361866739025f2ca9d"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (72).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (72).jpg",
+      "bytes": 98210,
+      "crc32": "9a27c9d6",
+      "sha256": "4cd43562f54ca0e2078f5c7c319a1cefcd3d811c90a6e7bc0b649e4666814a60"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (73).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (73).jpg",
+      "bytes": 63769,
+      "crc32": "214e735d",
+      "sha256": "d6d3b9738552c0a512f132c5a01ee6e5a7af29b02ace383cc19a7f22d78799b9"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (74).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (74).jpg",
+      "bytes": 77114,
+      "crc32": "fa1d067d",
+      "sha256": "a65791cd3514aac9f049f54e58671217e3916665558830cd6eff033dd7386914"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (75).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (75).jpg",
+      "bytes": 91680,
+      "crc32": "9cddb9e1",
+      "sha256": "779f7af2f9921d028aead574dc6c1dfa6480c4b3cc00f5b221547b0df3f2015f"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (76).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (76).jpg",
+      "bytes": 79697,
+      "crc32": "1ca604c1",
+      "sha256": "a3f6b175be129588e300a13a54b728affda6486deac04efc921de0dc17287bc2"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (77).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (77).jpg",
+      "bytes": 73272,
+      "crc32": "bf43d212",
+      "sha256": "0f62da9269e47774e0d66afaf6013e3e64b929efc0a50d70d1ac8742dc38924a"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (78).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (78).jpg",
+      "bytes": 91322,
+      "crc32": "a3b11206",
+      "sha256": "e8804606310ba4a2ae40a4345862f1f89cfb9c79e5f54dde26808f3336079f67"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (79).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (79).jpg",
+      "bytes": 87198,
+      "crc32": "df47ef55",
+      "sha256": "3701aeb3b0089aa1c12a02eb506e96a28835a7ee1e14d05c43b753c5fe91df04"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (8).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (8).jpg",
+      "bytes": 192387,
+      "crc32": "ccb312e8",
+      "sha256": "af66a748d9efd629ff421dbb5b904a514c1db4f5004687451eaf14a2e1b0ade9"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (80).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (80).jpg",
+      "bytes": 99087,
+      "crc32": "25736377",
+      "sha256": "4bc9d303c8d2a4933bb0c8b59f763378c6ec46d01818394e396d98d32ae11c18"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (81).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (81).jpg",
+      "bytes": 78180,
+      "crc32": "689f6c58",
+      "sha256": "4c3856d5966ea3cde6767a04a98d8bb77c9a4efc8c24e0fb3698e61b890c524d"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (82).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (82).jpg",
+      "bytes": 96288,
+      "crc32": "a3e2ba2b",
+      "sha256": "aadc75f5fad61ce52e9f8b581640c67ed9ad46c81def2f62af164e114ba7205c"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (83).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (83).jpg",
+      "bytes": 93506,
+      "crc32": "00e31af6",
+      "sha256": "0ffb1e9822d911d64bee82c4c3026d7aa03edd80ff15f745660ae951dd4a6837"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (84).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (84).jpg",
+      "bytes": 85711,
+      "crc32": "6d035470",
+      "sha256": "cd31a3afff2bb332e960930617e1eecbabc427022feddc3939182b0d94b9a1b3"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (85).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (85).jpg",
+      "bytes": 130295,
+      "crc32": "3048890f",
+      "sha256": "ffafae2bbc2c4c44d40bc4a3c19bf43b8f6c2d96271788daaef355aa5dcbfc07"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (86).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (86).jpg",
+      "bytes": 109249,
+      "crc32": "4cfa0251",
+      "sha256": "10b492b6fa1a9d552c99c1d30cf977df35e322f2ba8d5b16232efdc863578f84"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (87).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (87).jpg",
+      "bytes": 97124,
+      "crc32": "f370c196",
+      "sha256": "daac7fec62bfdd5b0a9c5da9a3f731605111871003614bb08002595b4b53cd1d"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (88).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (88).jpg",
+      "bytes": 91998,
+      "crc32": "bf87ad00",
+      "sha256": "07925881fc9c2db87bf28a7f846a58bca13b8095250d52112aa2d7d82da8c4f4"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (89).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (89).jpg",
+      "bytes": 106808,
+      "crc32": "a4b06c30",
+      "sha256": "bdd2127161df5400f29c62e836c43745b4ba64c89f6a8e7f27bef7082f5e56da"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (9).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (9).jpg",
+      "bytes": 102536,
+      "crc32": "5c009952",
+      "sha256": "81efdefa56788fad10eff647bbace86972d5d951c6615f1c4d8c299553ef66cd"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (90).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (90).jpg",
+      "bytes": 109383,
+      "crc32": "943ebb89",
+      "sha256": "5b0cc467674a21b5041fc287c5af4d7457dc9113158a947fc1477bfdbef0a151"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (91).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (91).jpg",
+      "bytes": 130051,
+      "crc32": "40831577",
+      "sha256": "a7e3998cd174a8ecb73d03a955461b1bc61ee309f7f1215acb9ea59c668f523c"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (92).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (92).jpg",
+      "bytes": 108542,
+      "crc32": "181cc939",
+      "sha256": "ef5af11cd9b27835ede40b432e6eb3f516ff632be7fa4db8268b88cee0d12320"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (93).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (93).jpg",
+      "bytes": 99525,
+      "crc32": "c226f89b",
+      "sha256": "a697e6f4154db41ead738a095fad7cc290d4bc8825dcae17b6ab659394c63824"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (94).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (94).jpg",
+      "bytes": 120107,
+      "crc32": "25d053c6",
+      "sha256": "db23715d92b82b3a2fcc3de2c0f5dac5919c41aa4f5781a875a9bcb74c2fad9d"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (95).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (95).jpg",
+      "bytes": 142555,
+      "crc32": "9d0ce29c",
+      "sha256": "2fce477bb083a736684b81db2e0271738e6a1056f5ba02d623e55b3933fca6f0"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (96).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (96).jpg",
+      "bytes": 109493,
+      "crc32": "24ed08d4",
+      "sha256": "178c1bf0ac1f0b2a5aaadc60d37a95becc9aa7e79243de4d4e0f5471c161c5a0"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (97).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (97).jpg",
+      "bytes": 114091,
+      "crc32": "99bdd2e2",
+      "sha256": "752f1d691c28dd4ae3fe510fba26f89c1fdf999f69707cec0561ad5affad6909"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (98).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (98).jpg",
+      "bytes": 141822,
+      "crc32": "55a51ec6",
+      "sha256": "8e5c07c4ce288ab75410ea566790ed0d38cefec236cfbc19792cd9cff1d9015c"
+    },
+    {
+      "archive_member": "Original Image/FreshBanana/FreshBanana (99).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (99).jpg",
+      "bytes": 112594,
+      "crc32": "e4da30fc",
+      "sha256": "c9d78a807be674d5729166c169f6c97ca3138594ea2c1864d0dce11f1c0ca690"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (1).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (1).jpg",
+      "bytes": 1238352,
+      "crc32": "57c7ed5e",
+      "sha256": "a64d47ef86cbb4e0cfaad551b243e7da42b859da6c4d76856d9f2ee8aa3076a0"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (10).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (10).jpg",
+      "bytes": 1163048,
+      "crc32": "d9824482",
+      "sha256": "45e4f9c9b313d6121f822ee8498ea8d70bac135cab958fd2e05955ec209c9055"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (100).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (100).jpg",
+      "bytes": 892508,
+      "crc32": "fda90a97",
+      "sha256": "ba6685058466720487f8ec5e2d53772f60d7e2fccafaa3624ec14825bc88417f"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (101).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (101).jpg",
+      "bytes": 725651,
+      "crc32": "793c18ae",
+      "sha256": "121cc72332bac50dcc7eedff4e04d211bdd52dd361995858776b9803db6b44e4"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (102).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (102).jpg",
+      "bytes": 567062,
+      "crc32": "e8b32794",
+      "sha256": "87e2e8fa2d98c1ba2e66a9fdcdf430f5c55b016076af8f9d103c2c6069989eb5"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (103).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (103).jpg",
+      "bytes": 940577,
+      "crc32": "67a09ede",
+      "sha256": "c3bcb24026d15c175eb7709fbb80bb016b3474047e940dcf65a85011d3deb7b8"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (104).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (104).jpg",
+      "bytes": 874722,
+      "crc32": "128e8222",
+      "sha256": "179004516e3ee6a8458b5b081ae8c768a5d180a69478a869ab57b23b180a1131"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (105).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (105).jpg",
+      "bytes": 874220,
+      "crc32": "47c30dc7",
+      "sha256": "fd274243acad3e8d34a07154d184ea72d0b6e1c9b542fd225573c98936d79b85"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (106).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (106).jpg",
+      "bytes": 1028436,
+      "crc32": "641996ce",
+      "sha256": "7c9bae02515bbe7a54c54f4c607a7d893c9bfdcf73dc7e9c7f87186860e01e5c"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (107).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (107).jpg",
+      "bytes": 863298,
+      "crc32": "cbf32256",
+      "sha256": "478bfd039272ca6bc615c67a8351417e7095e1821f55986808cd4425bb400f32"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (108).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (108).jpg",
+      "bytes": 965256,
+      "crc32": "0a750b88",
+      "sha256": "b72197d46de05c92a94fc821c6d6a38fe9a8ec261c2a3243b4571829795930a7"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (109).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (109).jpg",
+      "bytes": 1421118,
+      "crc32": "e605e860",
+      "sha256": "43c5ea8f5c6c2ca43ea0562c8ca88fdea8049f3f5c1fac3a2af4aebc819e51ab"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (11).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (11).jpg",
+      "bytes": 2713050,
+      "crc32": "e30a8826",
+      "sha256": "683dc1b6b8e156e6fdd301ad9b87200767353ca2d35a5ad18b8004f81cb612cb"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (110).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (110).jpg",
+      "bytes": 1160684,
+      "crc32": "204a6b01",
+      "sha256": "ce0ba02cc56520c397c638aec59d61d598a0607db8420f748e2a55967ea467b6"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (111).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (111).jpg",
+      "bytes": 1560305,
+      "crc32": "24eb1abb",
+      "sha256": "1c6b1c614c308fa1394905cc2dca4efd39a38837ce173a403caf36f149e6b188"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (112).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (112).jpg",
+      "bytes": 1295061,
+      "crc32": "5d0e529c",
+      "sha256": "e3a5bed84eebfd9d8c44974b24114bf028941e47eff21cf4d9349931ed71f4be"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (113).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (113).jpg",
+      "bytes": 3001445,
+      "crc32": "c82e7ff2",
+      "sha256": "a11bdbf7b94bf93bad12229373b6fc5672c04db36c36cf2bc8860a85a45b3e69"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (114).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (114).jpg",
+      "bytes": 3178093,
+      "crc32": "28f475d4",
+      "sha256": "b0d842d153ae3ef01a64be76b6fac9e632181ecb8a5d35b930b25cca2e4eebb0"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (115).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (115).jpg",
+      "bytes": 3182450,
+      "crc32": "2e69002c",
+      "sha256": "6d1f4d458d989ec51ffcf88239c46cbbc4102255724bb3c4b6eee5fda8a4ac3c"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (116).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (116).jpg",
+      "bytes": 3509714,
+      "crc32": "2cd09562",
+      "sha256": "3c608dc176a6ad2d9704389bfa45b31a4171c3e9f1aebe8695ca658491fea000"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (117).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (117).jpg",
+      "bytes": 1170203,
+      "crc32": "3b8295f4",
+      "sha256": "57a24243961fdb91b821873da83bc9d5a4e1f31aab444187f3abd94a85ad85af"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (118).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (118).jpg",
+      "bytes": 923887,
+      "crc32": "f3264679",
+      "sha256": "faa3a4e9055a2659b748f458de51e58e51d7493da06c93a49b9df4d9cec311a5"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (119).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (119).jpg",
+      "bytes": 1367746,
+      "crc32": "566a7cfe",
+      "sha256": "57cb1e2efc5587a0eac21906fd0acaa9ddf95c0235f7e1e139673a9d53db653b"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (12).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (12).jpg",
+      "bytes": 1115349,
+      "crc32": "b8225fdd",
+      "sha256": "3f376b0b603a7575099c9f8743c4604cd7f4acc587f70ca13e109a99ff33adae"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (120).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (120).jpg",
+      "bytes": 1034666,
+      "crc32": "d938b542",
+      "sha256": "c35448b2bcb3bbe70f3b2ecd1ce676a54a5c680b1cec3e7eda328a4997fc52e4"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (121).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (121).jpg",
+      "bytes": 1968629,
+      "crc32": "798d1b4c",
+      "sha256": "8a5a57514d94cffa8710ebed52f6ae7aeaf232e4e5682e84cc5e548bc0d5de9a"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (122).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (122).jpg",
+      "bytes": 893581,
+      "crc32": "b6cab127",
+      "sha256": "4f1f3decf0af44d5181d9be7f4b89f7184e05e4542dcb325fb4d5550b491d011"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (123).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (123).jpg",
+      "bytes": 820295,
+      "crc32": "5c0bed21",
+      "sha256": "147329376733e8809228bfdfc84765a20f7ae6c5bfb597be080e93554122107d"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (124).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (124).jpg",
+      "bytes": 760217,
+      "crc32": "0fe70db6",
+      "sha256": "2e2bcb09469a9e0e34594998f6edba7c360ef67463c5245ba48c12fe334e3fe1"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (125).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (125).jpg",
+      "bytes": 577258,
+      "crc32": "a10c7f23",
+      "sha256": "f700c01c5f8e6c7b795e1ed1f27fab0c523353fd355d2eaefe364cb6dccfea4b"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (126).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (126).jpg",
+      "bytes": 989804,
+      "crc32": "27b60bc2",
+      "sha256": "46cf5157d86dbe6f19998c45cfba7b093d60a98694eaead3426509794df08bd7"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (127).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (127).jpg",
+      "bytes": 1036399,
+      "crc32": "4cce4596",
+      "sha256": "08297695b1ccad954a53b91b488fb7ca340eb7e9ed27e60202450b58e8a9591c"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (128).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (128).jpg",
+      "bytes": 963656,
+      "crc32": "67491031",
+      "sha256": "1a827118df873fa6693a6a8258e47e0544cfa69cf1db3104505d547c12daacec"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (129).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (129).jpg",
+      "bytes": 897221,
+      "crc32": "c603d3b0",
+      "sha256": "771c7d2fb2d812ff3b117c90ab628a61eaf8f4cfdb19ede8a1bc2a6cbaa1fd85"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (13).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (13).jpg",
+      "bytes": 1122191,
+      "crc32": "c811141f",
+      "sha256": "1e31766f6b0a16315ee47e7dbdc35b340ea586ec08dca8c70836fabb331875b4"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (130).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (130).jpg",
+      "bytes": 1053914,
+      "crc32": "57eaadbf",
+      "sha256": "18a83de1b6df9dc1a0cdd6518ac953fc30d77ed974f3e7638fb889a3f5ce76bd"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (131).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (131).jpg",
+      "bytes": 954885,
+      "crc32": "ae343863",
+      "sha256": "89e33388a78f4d73961f3fa6e244120c74bc46d7984489c33f38216a7abdf4a6"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (132).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (132).jpg",
+      "bytes": 954644,
+      "crc32": "640785e3",
+      "sha256": "02d84f362415bc90a6436aae6f73c748dc01063e9379974f3b9a4c2f131142ef"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (133).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (133).jpg",
+      "bytes": 879597,
+      "crc32": "18c0ef0f",
+      "sha256": "0c63f15277cd9dc6789478105ee452e7330daeb2a91fc8e4b46643e407892f3b"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (134).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (134).jpg",
+      "bytes": 781065,
+      "crc32": "ba7afe9d",
+      "sha256": "690a6b107fe6da0f3776a4f9611355ca369740d5244d00b20b713f847dc7756b"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (135).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (135).jpg",
+      "bytes": 908423,
+      "crc32": "47dd7a75",
+      "sha256": "44257405e03aa2af7e5772d5a911ba6cc0e91b1913b814e56305eb264c8277a8"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (136).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (136).jpg",
+      "bytes": 1109802,
+      "crc32": "7cd335cd",
+      "sha256": "00c3d3d8b61bf5c9bdfec5b562a9e163ea9d4c2d3ce1ad0730b399141f0a72d2"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (137).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (137).jpg",
+      "bytes": 948090,
+      "crc32": "96527ef2",
+      "sha256": "4e7b72fe183675566d67db567384bc0b78c86c129402380c7dc847d823505dae"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (138).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (138).jpg",
+      "bytes": 1025652,
+      "crc32": "36f13764",
+      "sha256": "3ba449e4c15feb5ab9f4aecd05ec743597b3781d344a83e570dc514e98e44071"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (139).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (139).jpg",
+      "bytes": 1351446,
+      "crc32": "4271507c",
+      "sha256": "3ce4ddcaa4ae583f60bca6c1b09a861adce1b5d675144badd40054d194a6f588"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (14).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (14).jpg",
+      "bytes": 967904,
+      "crc32": "4f18df31",
+      "sha256": "6997f6aafccaeea12e9d71c3cc60448851fea7278779e9c947b73e231002d701"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (140).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (140).jpg",
+      "bytes": 887565,
+      "crc32": "1727286e",
+      "sha256": "b0172ed1fe3fb57304fb3b6d1cb923a150bf9c6d4305b1029b8097a19fbd4787"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (141).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (141).jpg",
+      "bytes": 848078,
+      "crc32": "3292efc9",
+      "sha256": "fc8bfe04c212562cd410465633c90ac47088e498d220db65ee25213786494109"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (142).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (142).jpg",
+      "bytes": 782634,
+      "crc32": "42c3ea07",
+      "sha256": "b80333a4adda5894c139fe7ca9e12f310e56eef60bedf99556e7fe7d2e2d8b05"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (143).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (143).jpg",
+      "bytes": 740695,
+      "crc32": "cf3abefe",
+      "sha256": "1b280c6a1a686ecaabaf31a5e20f5001f1064c778a67c233ef38804febd90833"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (144).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (144).jpg",
+      "bytes": 835191,
+      "crc32": "b1033372",
+      "sha256": "25d1c6d6671b35b2bc651656eeb49e838a7322ec07c9cbcda550aa727fc88566"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (145).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (145).jpg",
+      "bytes": 846923,
+      "crc32": "bd3ad89c",
+      "sha256": "bbcf99825f7b1c3c6ad2fbc47a24bb2c6d41d8f3120ac847324527aab033c6d5"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (146).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (146).jpg",
+      "bytes": 603798,
+      "crc32": "1a86f45f",
+      "sha256": "a1269aefcdbc6c6f386ee911204a85b07f24e793bb9ae82bafa57a712b96ce0c"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (147).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (147).jpg",
+      "bytes": 1120575,
+      "crc32": "926dbe2d",
+      "sha256": "34a2f1bec0c9ae52b63a435e3eddbd0d41eefa7e893a713c0eba6fb9f9ad2779"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (148).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (148).jpg",
+      "bytes": 985845,
+      "crc32": "68b715fb",
+      "sha256": "77ef5ac965d8c9df1cf1b282c243de6344a8b950b468271c7e6cec89232eba73"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (149).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (149).jpg",
+      "bytes": 841955,
+      "crc32": "6b451958",
+      "sha256": "21a64e612d4ed748aa75782257023da115bb18b8b48b97351d65d011dec6de5d"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (15).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (15).jpg",
+      "bytes": 1008434,
+      "crc32": "4dd43ddd",
+      "sha256": "9f78490d4d981580773f0aada29cb65f5849290aa5396ef6a4c9f8d2fb2c02d9"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (150).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (150).jpg",
+      "bytes": 658699,
+      "crc32": "55406f4b",
+      "sha256": "3f1c57c395d1027883551deafa06ad076f9f29641820ae1ddc8d675bac0eb208"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (151).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (151).jpg",
+      "bytes": 867315,
+      "crc32": "4869a50d",
+      "sha256": "424ca9605ec43692375e10b1d009ad4e37a95a9e62d0c4c853c82dd9cb6211c3"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (152).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (152).jpg",
+      "bytes": 870553,
+      "crc32": "b0403547",
+      "sha256": "463c383af325f9c569e06d85cd8a4b62e8bfc25ee6c6112b7389eba97fb92188"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (153).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (153).jpg",
+      "bytes": 1075726,
+      "crc32": "a76ce35e",
+      "sha256": "691b7586bbf277f18b07d35683c20946a1c61f5be46c6359bdd4cf0d57a0ebb9"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (154).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (154).jpg",
+      "bytes": 670557,
+      "crc32": "eb9547c6",
+      "sha256": "995a3ac53e2e2ef09d22916ffdf351104d79ef58eb142dd516c0ac15bf91deda"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (155).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (155).jpg",
+      "bytes": 723452,
+      "crc32": "996716d4",
+      "sha256": "0775f413818bcd04f1cae324cc46fef900ed95c9a135dc0f23e1c25fb97d7d01"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (156).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (156).jpg",
+      "bytes": 585518,
+      "crc32": "eb3bb4c7",
+      "sha256": "813551003e961891dda879a3a4301ba5ff353b8ca6bdbbdf283fe26aec0c739c"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (157).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (157).jpg",
+      "bytes": 679326,
+      "crc32": "3e679eee",
+      "sha256": "7f9469c837b5f0630a1c089b00cb6837d6a05e2608288654bdd5db47bf7fa182"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (158).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (158).jpg",
+      "bytes": 842973,
+      "crc32": "7ccb67a2",
+      "sha256": "95a1f4dbf64d092ef650016cfb2774150525a90f0c340d2c94e8150b24316b2b"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (159).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (159).jpg",
+      "bytes": 1052970,
+      "crc32": "1e266ff4",
+      "sha256": "85c549cd86965d6724c597b3d42e471c9a1e8f3f609d194b746330c09ef6eefe"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (16).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (16).jpg",
+      "bytes": 1110988,
+      "crc32": "22fa8da8",
+      "sha256": "50e31885c85111c2833ae778fdc1294500bd7a6dd86420ead3f5cc46f6deffaf"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (160).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (160).jpg",
+      "bytes": 671561,
+      "crc32": "51e9df8f",
+      "sha256": "8db1fc696ef0bcd6da7331068c64c7fa14f78e083bb5f9bd8edbaa10ba81a5f1"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (161).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (161).jpg",
+      "bytes": 639988,
+      "crc32": "15e395d0",
+      "sha256": "d2aba541757daee0e8a6fdc0fef29370dc2f24759ca36c7f851a756ae1de927a"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (162).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (162).jpg",
+      "bytes": 926465,
+      "crc32": "9e982010",
+      "sha256": "fdc652f913761bd9741ee7eb81a35a4dc714793233862b6c961281071b567bf9"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (163).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (163).jpg",
+      "bytes": 723372,
+      "crc32": "94e2d406",
+      "sha256": "c1adf8d464756f1168e284099b5209b481205cd042f2da8b5f418960e2211b2e"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (164).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (164).jpg",
+      "bytes": 699625,
+      "crc32": "58d17b6e",
+      "sha256": "ad168634a6dde855d49bbf38b171bbcf3dc7aefc333cecc4c79b3ab589d8a8e6"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (165).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (165).jpg",
+      "bytes": 627827,
+      "crc32": "22c47356",
+      "sha256": "36d230bdbc30f861e1cc2fc3a0cdbfdd76266f0f0c865c93d2345573870056df"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (166).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (166).jpg",
+      "bytes": 396165,
+      "crc32": "a56eb739",
+      "sha256": "2cf27a2b81bd052d69b1d3dcb020c2006fe92713d40eec40164ab21dd46d82e7"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (167).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (167).jpg",
+      "bytes": 964108,
+      "crc32": "9bc6eba6",
+      "sha256": "5f7ea948bd50a5a37bdd378d5c8cd568d03b0085f384d6fbd8a945b2cc91cd50"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (168).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (168).jpg",
+      "bytes": 1039420,
+      "crc32": "57d3c5a0",
+      "sha256": "c38520f943539ae3e4a4488fc10bb94fb62b650c151895c3c5b46fb1050a9ffa"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (169).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (169).jpg",
+      "bytes": 907083,
+      "crc32": "2604afd0",
+      "sha256": "d080e691ef013d2fbcc2b7a28d8c0cc9f3a8137c428dcf10035e3ae200cd92cb"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (17).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (17).jpg",
+      "bytes": 1246436,
+      "crc32": "4b0fd88b",
+      "sha256": "8006c305a578578128f97e08161deccd3ed28eeac21ed15e02f2a9dc6e316f4b"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (170).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (170).jpg",
+      "bytes": 559587,
+      "crc32": "12e4ef4c",
+      "sha256": "15cd614d29ce89c408b1b16f4ca5036a5bb1b7b25f5857b323f06b1ec5d71bd0"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (171).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (171).jpg",
+      "bytes": 465476,
+      "crc32": "450dc367",
+      "sha256": "fd178b6f063ef061f4e6d8a64a999ddf502f95dfc3b15a16a9749998f9155c4b"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (172).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (172).jpg",
+      "bytes": 732219,
+      "crc32": "2cf459f3",
+      "sha256": "3cae6353542ef643056f5af5e8825b20d0852e4fdfa7e47111281afcb9bb1409"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (173).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (173).jpg",
+      "bytes": 623506,
+      "crc32": "3da73759",
+      "sha256": "63d711d466ab20fee782d35dae684594a5faa62e7d0321b43c4d8f4d563a8e39"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (174).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (174).jpg",
+      "bytes": 788146,
+      "crc32": "bdd999f2",
+      "sha256": "7faff1d09460d57b0313ecb1425b2972fa612ee341ff2df2e543aeaaa8f6780c"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (175).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (175).jpg",
+      "bytes": 534843,
+      "crc32": "56a5981c",
+      "sha256": "62e4125994966d9526f5ffd21665eda582f5d767c1514475ee86e578646e03f8"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (176).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (176).jpg",
+      "bytes": 672489,
+      "crc32": "1798a4d4",
+      "sha256": "0ba8f6ef3f671cebe7d92b6290cd27ac86f90279c0f3c3757b1c087e2d0fca80"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (177).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (177).jpg",
+      "bytes": 524478,
+      "crc32": "b08a1246",
+      "sha256": "c6d4487670478685dc8aecfde45018495d3447d003b09ad2ad9a1ffbc8331e1e"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (178).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (178).jpg",
+      "bytes": 386609,
+      "crc32": "a634a19b",
+      "sha256": "d55973249caab092085218752b030ccec02445e96d7acaa7ac7e702ccb6b4f01"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (179).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (179).jpg",
+      "bytes": 700765,
+      "crc32": "8b56c2fc",
+      "sha256": "584f01dbf25c9522e85588f1361ea37a9778c7df5527d31e08e82a5647a2039e"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (18).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (18).jpg",
+      "bytes": 1337287,
+      "crc32": "13e1573c",
+      "sha256": "0592c966b0e47aa124db771c8d1de586e30bf92b514e05380982892901b7cbdf"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (180).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (180).jpg",
+      "bytes": 596498,
+      "crc32": "e02095c3",
+      "sha256": "cdb62d558f9e0668a11bb55c6124d32384a3378fad067f1efc98966101e7778a"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (181).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (181).jpg",
+      "bytes": 585733,
+      "crc32": "a83543b5",
+      "sha256": "e8fc301a18729b6c36b3e5b7818a716ee69827f5c68bfa1462d638b1dfaff3bc"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (182).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (182).jpg",
+      "bytes": 584201,
+      "crc32": "f077622e",
+      "sha256": "2103bcfe597c45fc261967bd8d29baf6f1e59c389d5ad39e95822357b7e4eb9d"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (183).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (183).jpg",
+      "bytes": 638347,
+      "crc32": "b8ef5934",
+      "sha256": "82ea49e0b427e579118adab724c093eeae5f8e94c21a98e7a25bf1bd5db4c668"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (184).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (184).jpg",
+      "bytes": 359364,
+      "crc32": "f3fa874e",
+      "sha256": "e6cf2bfffceb4de256f1f5ab0797ecba0c6a23dc123701640b8fa92e9c879b67"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (185).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (185).jpg",
+      "bytes": 498606,
+      "crc32": "952b9b4f",
+      "sha256": "0572def24d63a009067a493592356588a44a15133b3219259ead8bf1fcde4cd4"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (186).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (186).jpg",
+      "bytes": 833741,
+      "crc32": "a4f2c076",
+      "sha256": "07c72adc9d94a9c1541458c68ccb21aa8490fd0c174b2bc138922bebae70cf78"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (187).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (187).jpg",
+      "bytes": 574246,
+      "crc32": "c05b9cf3",
+      "sha256": "9a0a56428889f862f3f887c08a3d7461bd00266a896a81653f18e76c1c852fa1"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (188).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (188).jpg",
+      "bytes": 490874,
+      "crc32": "31394aaa",
+      "sha256": "dd7aaf68fc0805bbcdc172f53c846d94d00e776f1985270facd6b72b0bae8875"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (189).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (189).jpg",
+      "bytes": 900657,
+      "crc32": "a9e66543",
+      "sha256": "53fcb4da0c4477308717687ee5835dcca00819c68ae84e73648c67e3ebcad450"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (19).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (19).jpg",
+      "bytes": 1222788,
+      "crc32": "3842e94f",
+      "sha256": "98e06ffb26418d764443ae2ec5c5edfc0954b3888757ef61444f774f83d1ed76"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (190).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (190).jpg",
+      "bytes": 660920,
+      "crc32": "fb686f1b",
+      "sha256": "118142e26bcde97e8ef50f4d021cfb8776e24e4066892cacd47100b3c371a967"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (191).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (191).jpg",
+      "bytes": 560690,
+      "crc32": "bca25371",
+      "sha256": "8c265768f8ff8904a7183f9413e3e03d5acdc3cd5ee54893658f5836f1cf3a58"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (192).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (192).jpg",
+      "bytes": 797190,
+      "crc32": "8ee72ba3",
+      "sha256": "8904c5ee0a6a0ff303a750c8328f2c2afb64b2bef3ab82c76a863c42f1685f95"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (193).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (193).jpg",
+      "bytes": 1228529,
+      "crc32": "83e278cf",
+      "sha256": "97ecb5177a2ec317ef12fb2f47cce62a1c4bb07b89f505bdb33e3edf61e403cc"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (194).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (194).jpg",
+      "bytes": 1161236,
+      "crc32": "249c1b0b",
+      "sha256": "cbf1af9b56b5e439c01c7d1bea947280d04db52265e7075fe52d7013fddb5696"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (195).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (195).jpg",
+      "bytes": 1346006,
+      "crc32": "3ed744be",
+      "sha256": "e41ce4e37ecea067c390beebc573db1f78038fc84882004b47340ed0e176c5e0"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (196).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (196).jpg",
+      "bytes": 1574308,
+      "crc32": "46d3819d",
+      "sha256": "5955d28c1e0f648bbab8a4a6bb111c2a0089484a5afc97b3e365c5b678e8310d"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (197).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (197).jpg",
+      "bytes": 1537290,
+      "crc32": "b695dd97",
+      "sha256": "c0600e66a042b5af67d72daba095e8081e14f63e5c58081dce6190d931617cf5"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (198).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (198).jpg",
+      "bytes": 1613051,
+      "crc32": "e5bdf6e8",
+      "sha256": "e16bd5ff7723920426f03fef3c0b30bc0ae0d3a30d3feffdd4459b11a8d8e215"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (199).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (199).jpg",
+      "bytes": 1245070,
+      "crc32": "4b8f53b2",
+      "sha256": "a30c438a7f32838ca4ddbf9d07a63dc655bf05b1384fbbf70c5d693d0859af36"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (2).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (2).jpg",
+      "bytes": 1926534,
+      "crc32": "92b6c360",
+      "sha256": "9531629ad1533079753abfe4c07bdf8e1bdbd085f997dd05aabe08af2519f2fb"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (20).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (20).jpg",
+      "bytes": 1155716,
+      "crc32": "13dd3b8b",
+      "sha256": "3f28dda3aea239203c90571da7eda23a2b70dee521d8d9f396d797cc63f4750d"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (200).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (200).jpg",
+      "bytes": 3305784,
+      "crc32": "4f2f9336",
+      "sha256": "1e28f528cee489b55a248493c5be9bbf90caf1f7568b2baee4bc373f9657c456"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (21).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (21).jpg",
+      "bytes": 1083996,
+      "crc32": "2cd72ba6",
+      "sha256": "b5f6cd68fd8a98e2f2cd0fd8abe1e38096b5da0adb5b00d3a2fd6315241aba10"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (22).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (22).jpg",
+      "bytes": 1361433,
+      "crc32": "4d5538b1",
+      "sha256": "34185fad0d26186a58b732d8d50e97da054b19740e9bdcc0c6c578dcafccca1f"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (23).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (23).jpg",
+      "bytes": 1292181,
+      "crc32": "7f2196c0",
+      "sha256": "c13eff2b2db446ed1044c29e567bc0d4d43a71bc25df201f5688c3d31c0ad201"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (24).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (24).jpg",
+      "bytes": 1216649,
+      "crc32": "7599beba",
+      "sha256": "6458b4c94f40c05f777053970147b88cc536a44302a08ca4ca5f3afaa34190a3"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (25).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (25).jpg",
+      "bytes": 1029674,
+      "crc32": "ef8d8a34",
+      "sha256": "72262196c80dfeb608cc3c0ce8e8cd92d3a992695534675dddd8e4b6014de5af"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (26).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (26).jpg",
+      "bytes": 1495076,
+      "crc32": "4c900c60",
+      "sha256": "a50ee968e6e129d263914540a29ad3f589e9f95ca1446d4dd3c3da169359d3e8"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (27).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (27).jpg",
+      "bytes": 1170227,
+      "crc32": "89d01f30",
+      "sha256": "76b250b117cd3c679b4cfa45647964fd80de740c965df7f0268ab31a5b53914b"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (28).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (28).jpg",
+      "bytes": 1174763,
+      "crc32": "20ea79d4",
+      "sha256": "b6be94ed2e44f36b88fb5f1d55881f388e39aae9b4b3853a47a8122ebc7c6990"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (29).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (29).jpg",
+      "bytes": 919511,
+      "crc32": "20965af1",
+      "sha256": "c8fa708ce104f65117d5c7ab4f1675391fc3178e80ac9ace1501355599f4c61e"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (3).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (3).jpg",
+      "bytes": 884244,
+      "crc32": "62b41c70",
+      "sha256": "4b7c66123366db1b2297c53ca2e0f7ed1c0aaf972d234ac83b6441f29befd60e"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (30).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (30).jpg",
+      "bytes": 1096235,
+      "crc32": "202f69c1",
+      "sha256": "350275e7769c047b0c0c1402dfda9681a817c292d60d6c785df9b7c01d4cd931"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (31).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (31).jpg",
+      "bytes": 1340245,
+      "crc32": "e81335ac",
+      "sha256": "758f4c02c2e21faa3965b14f5905d91462a677169258e13d85702dc60047ba98"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (32).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (32).jpg",
+      "bytes": 1164548,
+      "crc32": "9512bc47",
+      "sha256": "05557a552bd41194fd27b8a615075d44f31c85c4b334e0ca6fc20c779f077259"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (33).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (33).jpg",
+      "bytes": 1222110,
+      "crc32": "b4c610b7",
+      "sha256": "19e68d3b484280b79b67a7239de31f8bf1a8dc7a5397ef912ff68fd8c03ae2ae"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (34).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (34).jpg",
+      "bytes": 1107398,
+      "crc32": "4fc8d7d7",
+      "sha256": "31d6dbdb9cbb0617d8a920079db54bd08ae65a6e27eae22d9b5fff47150d26d5"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (35).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (35).jpg",
+      "bytes": 1284833,
+      "crc32": "9b2f95ac",
+      "sha256": "601d337a01724eb069f19af62b25c33a45f205d31a3aa9dc0f35fc0b6947263f"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (36).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (36).jpg",
+      "bytes": 1154942,
+      "crc32": "f50d2e01",
+      "sha256": "58ea8ebcfdf4de10932e28a8a67d8252e0441c7db42bc63a84bfa244e2364c91"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (37).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (37).jpg",
+      "bytes": 1684649,
+      "crc32": "30f142f8",
+      "sha256": "413017128ce12bcd2c2135a4dfadab7dde24245ca242bdfd20ffd599a43a27c6"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (38).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (38).jpg",
+      "bytes": 2038513,
+      "crc32": "38b650eb",
+      "sha256": "c322b4b6ec58928e5aecf75d1685cf6daf0f7f4a5b1294af9a960463629be775"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (39).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (39).jpg",
+      "bytes": 929710,
+      "crc32": "2c9fb894",
+      "sha256": "3f867d59b831d331d91b9fb7c2ee223703de4865071fe9aa2083495e2bba77c0"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (4).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (4).jpg",
+      "bytes": 1195577,
+      "crc32": "bb95e55f",
+      "sha256": "35445c06683a6b0fe20404a3bbfb2365c4f5cdf0dcf1d5aa4ea0e1c21bec3f19"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (40).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (40).jpg",
+      "bytes": 1569569,
+      "crc32": "09191352",
+      "sha256": "6c3569856588008d4b0412001c7098493719868a5b10e41d291426a57ca77296"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (41).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (41).jpg",
+      "bytes": 1262141,
+      "crc32": "329b1448",
+      "sha256": "ae2be0d3acf4db5c9bbc91b2c32e11d3a630f59502cb0f006627cc546f13e626"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (42).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (42).jpg",
+      "bytes": 2750515,
+      "crc32": "39321c07",
+      "sha256": "bbc396d9ddebfbb335db056f0b08d24edfe56c71c868d48cdcc4eed10464b6be"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (43).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (43).jpg",
+      "bytes": 1150337,
+      "crc32": "7590f5f3",
+      "sha256": "1c120358747a8ed29c360f855b43a5229bf650556592d256c054c0cc296e8a34"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (44).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (44).jpg",
+      "bytes": 1392896,
+      "crc32": "b532ea64",
+      "sha256": "f623795ac37da7d4d2795a7aede893a0ec7cab23b9d21c508562235f6d8e9f24"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (45).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (45).jpg",
+      "bytes": 1146620,
+      "crc32": "54a8de22",
+      "sha256": "9871344fb857db8630dede0d1c4a89b56901946683d1be3cab0ea5a81adcfb8a"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (46).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (46).jpg",
+      "bytes": 1120530,
+      "crc32": "aafc6971",
+      "sha256": "f69d867bd5bad5f872b58696ad62fb911925b4bc7478d3b0344d4117ffea7371"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (47).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (47).jpg",
+      "bytes": 1004402,
+      "crc32": "2af59566",
+      "sha256": "f22c80bd7938ec0aae484d1a8c5e3e7149baf7eb2e29f7c7f25a97530f2c33e1"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (48).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (48).jpg",
+      "bytes": 926227,
+      "crc32": "25ecc304",
+      "sha256": "27aeda822da43b6bc986a0bab68f52b49fb442e2d0a0abe87de92fc903dcc008"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (49).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (49).jpg",
+      "bytes": 1094746,
+      "crc32": "b9a50580",
+      "sha256": "1fe2d699ba2a082f249157925ed646a48891fbb737ac84b01b91e724a95c7906"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (5).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (5).jpg",
+      "bytes": 925252,
+      "crc32": "4fa8fd70",
+      "sha256": "dda59d119e5b3985b4d7aba73dacc8e579ed5bcdd22d6151044fddd7f9f76fec"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (50).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (50).jpg",
+      "bytes": 1215269,
+      "crc32": "8ab3066f",
+      "sha256": "99ab431569c72251b7ea7aaaf651532af7adfa91c0b6de3d5b39a068b5fa864f"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (51).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (51).jpg",
+      "bytes": 960531,
+      "crc32": "082b73d0",
+      "sha256": "fa0f86a0b7a4fec2d9cf3babb16146516e64742100fae2be29dabdd4034ba927"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (52).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (52).jpg",
+      "bytes": 933062,
+      "crc32": "14d83363",
+      "sha256": "894c9e1bcde7d6869bdc3cbbf673a25d90fb6bd5235239779f34071276427686"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (53).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (53).jpg",
+      "bytes": 1258327,
+      "crc32": "1344ba32",
+      "sha256": "c56f05d007d9bf4ea12ccb17e86cf6e76a73745ceafd4a26f945d6ddafcfca05"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (54).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (54).jpg",
+      "bytes": 1153569,
+      "crc32": "3d5b0b99",
+      "sha256": "6c49297430035ab130539927b91b1d45455252948d76bc5ff9296ccbc2cb5523"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (55).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (55).jpg",
+      "bytes": 1044753,
+      "crc32": "0088f405",
+      "sha256": "4e0e38529bb7cf1e356f774917df5abcc83fd3148de88150723a8360158b3d22"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (56).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (56).jpg",
+      "bytes": 1149828,
+      "crc32": "dd5c30d0",
+      "sha256": "4819ec2503208fe2ae56def396d38e55938922f0f743cd5fe759f2a8e1e8542f"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (57).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (57).jpg",
+      "bytes": 969502,
+      "crc32": "bbfe91b4",
+      "sha256": "7a2ef2e5854217cee37e408e7c1015c418adb65cf477e54db764b7062c83d955"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (58).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (58).jpg",
+      "bytes": 1045987,
+      "crc32": "bb9e5e36",
+      "sha256": "294bf04836b68a372180b257eae3207522b4126e79abbe25fcb3942d181c4631"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (59).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (59).jpg",
+      "bytes": 2444951,
+      "crc32": "396134e7",
+      "sha256": "6f559812e7fb8776e930d3861eaf283a86609555bf823bd0b9258b2440203255"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (6).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (6).jpg",
+      "bytes": 1147584,
+      "crc32": "6b31c02a",
+      "sha256": "2f0519cb73544b537d3a3ad613448b83ee2d4dee1f86b30d422fc58840a8631b"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (60).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (60).jpg",
+      "bytes": 807124,
+      "crc32": "15d7b030",
+      "sha256": "b7620e4bc3b1e520cb0ac4fe973c251293a222069acaed0203f008451dee8e37"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (61).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (61).jpg",
+      "bytes": 1028251,
+      "crc32": "a8fc57a5",
+      "sha256": "a1ad3d4b951a8a0126ddfee354b67ece1a07d9c28c27afeff89fc41eba7b30fc"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (62).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (62).jpg",
+      "bytes": 895098,
+      "crc32": "dcdb372d",
+      "sha256": "00d45b3d89f153b049b6b70a1fcfac0987e61ad72cc6959e73b66fa70c05985e"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (63).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (63).jpg",
+      "bytes": 1220963,
+      "crc32": "04896867",
+      "sha256": "f7553065413e1c2834fcc2dd79c97b5ffbb25dc519106b402dba9618ea022655"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (64).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (64).jpg",
+      "bytes": 1561777,
+      "crc32": "8bd954e4",
+      "sha256": "afe9d3414a3ce013a839c2a26754ef8b05bc954602ddf97883ee9be1f5a5e443"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (65).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (65).jpg",
+      "bytes": 826682,
+      "crc32": "e45f6686",
+      "sha256": "ffc802f979a63b58c5bd3bd04df8bef0159b6e70ca8681a882a576e35ff1b468"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (66).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (66).jpg",
+      "bytes": 1061592,
+      "crc32": "cca17a4c",
+      "sha256": "aa817afff7fd89de5aef55e7aaab0a6a7abda7df5a68e8e4c7b92141dcd4c376"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (67).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (67).jpg",
+      "bytes": 727415,
+      "crc32": "e0173e66",
+      "sha256": "5b392951ee8d464e6edf7cc2c879d07b3d9d7c5fc0cc701a7a25ea8acc5838b0"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (68).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (68).jpg",
+      "bytes": 1200554,
+      "crc32": "be46ad43",
+      "sha256": "a0402b003451a7d1bb2f1d1a3e7fb0fadacf26d757a211a9190452a1d28cd25c"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (69).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (69).jpg",
+      "bytes": 1468076,
+      "crc32": "e8d89a8c",
+      "sha256": "1360e7375527bd432a905376004f749422962099cb16b39067ab4c30bec7a5aa"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (7).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (7).jpg",
+      "bytes": 1639662,
+      "crc32": "29d50e69",
+      "sha256": "83448e5fbee3411c461e06333501cd1f3b0e855d2e8d22b3f7fa405476fdba63"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (70).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (70).jpg",
+      "bytes": 1523428,
+      "crc32": "80b5be97",
+      "sha256": "59d2c5a9cfd650b6c0187a4339de20a226cdd7f3d04e2d05f13e89fca9ef1de2"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (71).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (71).jpg",
+      "bytes": 855509,
+      "crc32": "98ed1ffe",
+      "sha256": "6670064cdd1149140c26154fbfba6ee0626d94e30d1861dfe0be5b8805b0cf53"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (72).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (72).jpg",
+      "bytes": 879616,
+      "crc32": "daa523ad",
+      "sha256": "4f5a7d6870d9bac9da6140bfddf49c3726911cc1f9866b93670fb503fece0492"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (73).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (73).jpg",
+      "bytes": 906620,
+      "crc32": "e628d7fd",
+      "sha256": "056f3c2955df7dd268600204d1ed682224473edc2d0341b0d03db3db5800cbae"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (74).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (74).jpg",
+      "bytes": 944954,
+      "crc32": "05ab2323",
+      "sha256": "56413ef66be705bdc621186c94adf02601379c2b6016d58ae0076aaac17e80da"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (75).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (75).jpg",
+      "bytes": 1148060,
+      "crc32": "9a291c05",
+      "sha256": "9f8be00f847f01b35e7d4759f005223830be46ded9f72d2407e1a40f9a355f26"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (76).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (76).jpg",
+      "bytes": 1403192,
+      "crc32": "b7d45213",
+      "sha256": "f6f406455a88c5b088a5b8f1ddeb648c61a24deacca5b554c9a40e074e9d4955"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (77).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (77).jpg",
+      "bytes": 810846,
+      "crc32": "782a48e4",
+      "sha256": "2ea8784c190fe4ee6e5164fb91d824971bb0353adfbd6fe000effed299e28263"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (78).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (78).jpg",
+      "bytes": 853667,
+      "crc32": "6679d236",
+      "sha256": "83aed062177f949392046ce526cbcddd9d82aa8efc011e3ec1416c2e8ed4e2d9"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (79).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (79).jpg",
+      "bytes": 728035,
+      "crc32": "135da0c1",
+      "sha256": "81eca10fe60f0a91eb12857280f297d8485530282c1ceb063add06a9d8319aa5"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (8).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (8).jpg",
+      "bytes": 3014435,
+      "crc32": "38465a1c",
+      "sha256": "30295947ec236fadb31142f7aa85c618e34ceebaad73cb0d56f4ce6add57f7d1"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (80).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (80).jpg",
+      "bytes": 1006878,
+      "crc32": "2b97ce42",
+      "sha256": "b45b990e250337c4c47418156c0acbc6eaf186d3aece40dde98ad263ddcb4bea"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (81).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (81).jpg",
+      "bytes": 908536,
+      "crc32": "5b0554a6",
+      "sha256": "0d60ba7fb0fa30aab497d0fc63ed71c830cd5182925c8acbd1c4ebb0b6f94cb1"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (82).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (82).jpg",
+      "bytes": 1009978,
+      "crc32": "97b154df",
+      "sha256": "a6310eba2cb4fee3ddf3c107e3c740f034dbb922c73927f8b259f416e9bc4803"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (83).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (83).jpg",
+      "bytes": 876717,
+      "crc32": "e5e56459",
+      "sha256": "5b522663f7a692cdc15c0b95628615615b9d40339e29fd73d31aaaa16d1fb9bb"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (84).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (84).jpg",
+      "bytes": 875351,
+      "crc32": "e95db09a",
+      "sha256": "c9abd209a113cb4ee4dcaa7d9189d952219845c4dc0113d9101ad3e45bf76ebb"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (85).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (85).jpg",
+      "bytes": 819282,
+      "crc32": "4dd74532",
+      "sha256": "aa481ef9a20bd0496480bfe1747dbcdb78eb47606ed0a59249ce3e943183c9a1"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (86).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (86).jpg",
+      "bytes": 790259,
+      "crc32": "d5a05572",
+      "sha256": "3c3599b4464953aabd058644c2459084509d3eaad26ba26e90eccf5b674f0f5f"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (87).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (87).jpg",
+      "bytes": 774122,
+      "crc32": "fbe23a99",
+      "sha256": "dc0b2980f9fe37a59ae0ff3546aa51943bdf25cb1e66f3bdc7c80a636967928b"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (88).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (88).jpg",
+      "bytes": 1144423,
+      "crc32": "0f253830",
+      "sha256": "8fa765d8cecf7cf9d8c724621921825589e4c7c15c526c828fb1cdd3603f60d7"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (89).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (89).jpg",
+      "bytes": 984375,
+      "crc32": "8f21a55f",
+      "sha256": "9f071cf853fdf9f2df7f226f445c2a4f85daff9de4a11786a9a2f365c3c95d9d"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (9).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (9).jpg",
+      "bytes": 3181146,
+      "crc32": "ef77dcd9",
+      "sha256": "46fb1a4622ffb2779fcc40498d5f5cdc90be2dd299df006aff1075d18725009a"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (90).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (90).jpg",
+      "bytes": 818620,
+      "crc32": "8af3e601",
+      "sha256": "be00ba1e2f75d244ac9e17f682496f1b05019a0768d45b37ff8ea2e65ae02bb5"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (91).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (91).jpg",
+      "bytes": 859119,
+      "crc32": "e7e5071f",
+      "sha256": "5265dd052f5023eca86e436521f99e54962c446b314f3e7b04fd1271bbbda3b3"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (92).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (92).jpg",
+      "bytes": 940657,
+      "crc32": "ded9faa7",
+      "sha256": "8cc334c0d67112709a8a20e674294c39f0e7d2d9a6a8804908c3807555bef022"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (93).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (93).jpg",
+      "bytes": 949826,
+      "crc32": "c6165a95",
+      "sha256": "9e7103a65f698d76776f8c1c17307a1a8818d58d606bc2f1a79f6b732cc57dc6"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (94).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (94).jpg",
+      "bytes": 906226,
+      "crc32": "e4eb5a4a",
+      "sha256": "4122c9a9ce11f666138d797e5e997940114692f854ca9c69088109287b5a0d5f"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (95).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (95).jpg",
+      "bytes": 1512673,
+      "crc32": "e6729944",
+      "sha256": "cb6dd1339ba8f97910e324ab4c76ed529ee7cab6322eca5e4f7bff62ae431f6c"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (96).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (96).jpg",
+      "bytes": 1046688,
+      "crc32": "98db86f2",
+      "sha256": "974e766ac412a767030939c13330efa495e674a12b2ca7b487379e8649543ba1"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (97).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (97).jpg",
+      "bytes": 820122,
+      "crc32": "15494297",
+      "sha256": "46d3a07071c9fedf72a0058c308152083fc08e53af8ada2a70dd9446c4a858c6"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (98).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (98).jpg",
+      "bytes": 628537,
+      "crc32": "33717ace",
+      "sha256": "a16fde35f8d7b19d5149aa806201617d2c3cd797977eb81e19820abbf0f0ed8a"
+    },
+    {
+      "archive_member": "Original Image/RottenBanana/RottenBanana (99).jpg",
+      "image_path": "data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (99).jpg",
+      "bytes": 610322,
+      "crc32": "0f9c88f9",
+      "sha256": "29177d68c1cc5be9a7e7e2041d5bd31c4b98117539a0da60b0c64ea673639262"
+    }
+  ]
+}

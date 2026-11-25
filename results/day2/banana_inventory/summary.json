@@ -1,0 +1,71 @@
+{
+  "scope": "Day 2 inventory, not a cleaned training set or an assigned split",
+  "total_images": 723,
+  "decodable_images": 723,
+  "corrupt_images": 0,
+  "unknown_labels": 0,
+  "missing_roots": [],
+  "counts_match_expected": true,
+  "exact_duplicate_groups": 0,
+  "exact_duplicate_members": 0,
+  "exact_conflicting_label_groups": 0,
+  "near_duplicate_candidate_pairs": 9,
+  "dhash_threshold": 4,
+  "near_duplicate_method": "64-bit horizontal dHash, one representative per exact pixel group; candidates need visual review; not rotation/crop invariant",
+  "verified_item_ids": 0,
+  "splits_assigned": false,
+  "inventory": [
+    {
+      "source": "mendeley_banana",
+      "original_label": "FreshBanana",
+      "condition_label": "apparently_fresh",
+      "expected": 200,
+      "found": 200,
+      "decodable": 200,
+      "unique_pixels": 200,
+      "width_min": 549,
+      "width_max": 1600,
+      "height_min": 551,
+      "height_max": 1662
+    },
+    {
+      "source": "mendeley_banana",
+      "original_label": "RottenBanana",
+      "condition_label": "visible_spoilage",
+      "expected": 200,
+      "found": 200,
+      "decodable": 200,
+      "unique_pixels": 200,
+      "width_min": 1533,
+      "width_max": 4160,
+      "height_min": 1209,
+      "height_max": 4160
+    },
+    {
+      "source": "tr6_banana",
+      "original_label": "Not_spoiled",
+      "condition_label": "apparently_fresh",
+      "expected": 153,
+      "found": 153,
+      "decodable": 153,
+      "unique_pixels": 153,
+      "width_min": 3000,
+      "width_max": 3000,
+      "height_min": 4000,
+      "height_max": 4000
+    },
+    {
+      "source": "tr6_banana",
+      "original_label": "Spoiled",
+      "condition_label": "visible_spoilage",
+      "expected": 170,
+      "found": 170,
+      "decodable": 170,
+      "unique_pixels": 170,
+      "width_min": 3000,
+      "width_max": 3000,
+      "height_min": 4000,
+      "height_max": 4000
+    }
+  ]
+}

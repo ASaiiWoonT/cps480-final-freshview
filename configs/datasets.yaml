@@ -1,0 +1,49 @@
+# Versioned public sources selected for Day 2 inspection, not final training approval.
+sources:
+  mendeley_banana:
+    title: Fresh and Rotten Fruits Dataset for Machine-Based Evaluation of Fruit Quality
+    version: '1'
+    doi: 10.17632/bdd69gyhv8.1
+    source_url: https://data.mendeley.com/datasets/bdd69gyhv8/1
+    license: CC BY 4.0
+    license_url: https://creativecommons.org/licenses/by/4.0/
+    role: single_view_candidate
+    archive_url: https://data.mendeley.com/public-files/datasets/bdd69gyhv8/files/de93ba06-6a58-45e3-913d-837b2ae52acb/file_downloaded
+    archive_size: 2794170228
+    publisher_archive_sha256: f89d67d4c4b24810bcd8406db877db6b1ac9834cea0b0cb56d65acebe59e66ff
+    root: data/raw/mendeley_banana
+    produce_type: banana
+    labels:
+      Original Image/FreshBanana:
+        original_label: FreshBanana
+        condition_label: apparently_fresh
+        expected_images: 200
+      Original Image/RottenBanana:
+        original_label: RottenBanana
+        condition_label: visible_spoilage
+        expected_images: 200
+    extra_files: []
+  tr6_banana:
+    title: TriModal Ripeness 6
+    version: '1'
+    doi: 10.6084/m9.figshare.30783827.v1
+    source_url: https://figshare.com/articles/dataset/TriModal_Ripeness_6/30783827/1
+    license: CC BY 4.0
+    license_url: https://creativecommons.org/licenses/by/4.0/
+    role: multiview_feasibility_only
+    archive_url: https://ndownloader.figshare.com/files/60094544
+    archive_size: 20388430589
+    publisher_archive_md5: cdbcc4a667051aa35d46c2de71a723d9
+    root: data/raw/tr6_banana
+    produce_type: banana
+    labels:
+      TR-6/Classified/Banana/Not_spoiled/sRGB_images:
+        original_label: Not_spoiled
+        condition_label: apparently_fresh
+        expected_images: 153
+      TR-6/Classified/Banana/Spoiled/sRGB_images:
+        original_label: Spoiled
+        condition_label: visible_spoilage
+        expected_images: 170
+    extra_files:
+      - TR-6/README.txt

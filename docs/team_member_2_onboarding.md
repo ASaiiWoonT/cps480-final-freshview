@@ -136,7 +136,7 @@ Team Member 1 owns dataset preparation, identification, segmentation and conditi
 
 Read [the interface contract](interface_contract.md) before connecting modules. Class order is `apparently_fresh` (0), `visible_spoilage` (1). Banana is provisional. Do not present test vectors or the untrained classifier as real assessments. Synthetic probability vectors are appropriate in isolated fusion tests, clearly labeled as test data.
 
-Day 2 for you is checking whether public datasets have genuine views of the same physical item and suitable condition labels. Record evidence in the dataset worksheet. Do not construct multiview groups from unrelated images. Model training and final integration are later-day tasks.
+Day 2 for you is checking whether public datasets have genuine views of the same physical item and suitable condition labels. Start with the [Day 2 findings](day2_report.md) and [reproduction workflow](day2_workflow.md): TR-6 now has a capture-session audit, but independent specimen IDs are not verified. Do not construct multiview groups from unrelated images or treat different days as independent fruits. Model training and final integration are later-day tasks.
 
 ## 7. Share changes and stay in sync
 

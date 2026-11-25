@@ -1,0 +1,5 @@
+source,original_label,condition_label,expected,found,decodable,unique_pixels,width_min,width_max,height_min,height_max
+mendeley_banana,FreshBanana,apparently_fresh,200,200,200,200,549,1600,551,1662
+mendeley_banana,RottenBanana,visible_spoilage,200,200,200,200,1533,4160,1209,4160
+tr6_banana,Not_spoiled,apparently_fresh,153,153,153,153,3000,3000,4000,4000
+tr6_banana,Spoiled,visible_spoilage,170,170,170,170,3000,3000,4000,4000

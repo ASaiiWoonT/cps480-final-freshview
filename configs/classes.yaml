@@ -7,6 +7,7 @@ recognition_candidates:
   - orange
   - broccoli
   - carrot
-# Provisional until Day 2 dataset inspection; no trained condition model yet.
+# Day 2: banana selected for initial dataset work; label/group review still required.
+# No trained condition model is available yet.
 supported_produce:
   - banana

@@ -1,0 +1,33 @@
+image_path,banana_detections,max_banana_confidence,all_class_detections,detected_classes,all_class_masks,status,annotated_path
+data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (1).jpg,1,0.943507,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_01.jpg
+data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (124).jpg,4,0.712773,4,banana,4,multiple_bananas,results/smoke/day2_detection/sample_02.jpg
+data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (150).jpg,3,0.791157,3,banana,3,multiple_bananas,results/smoke/day2_detection/sample_03.jpg
+data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (176).jpg,4,0.913889,4,banana,4,multiple_bananas,results/smoke/day2_detection/sample_04.jpg
+data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (21).jpg,1,0.812579,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_05.jpg
+data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (47).jpg,1,0.910523,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_06.jpg
+data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (73).jpg,1,0.937813,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_07.jpg
+data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (99).jpg,1,0.847115,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_08.jpg
+data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (1).jpg,1,0.767236,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_09.jpg
+data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (124).jpg,0,0,0,,0,no_banana,results/smoke/day2_detection/sample_10.jpg
+data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (150).jpg,1,0.485707,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_11.jpg
+data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (176).jpg,1,0.869805,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_12.jpg
+data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (21).jpg,2,0.797,2,banana,2,multiple_bananas,results/smoke/day2_detection/sample_13.jpg
+data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (47).jpg,2,0.702545,2,banana,2,multiple_bananas,results/smoke/day2_detection/sample_14.jpg
+data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (73).jpg,0,0,1,bird,1,no_banana,results/smoke/day2_detection/sample_15.jpg
+data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (99).jpg,0,0,0,,0,no_banana,results/smoke/day2_detection/sample_16.jpg
+data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101403.jpg,1,0.953416,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_17.jpg
+data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142741.jpg,1,0.940587,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_18.jpg
+data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163228.jpg,1,0.936501,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_19.jpg
+data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091619.jpg,1,0.936685,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_20.jpg
+data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162837.jpg,1,0.956359,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_21.jpg
+data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093443.jpg,1,0.939755,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_22.jpg
+data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140713.jpg,1,0.88599,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_23.jpg
+data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161958.jpg,1,0.924504,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_24.jpg
+data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092524.jpg,1,0.938909,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_25.jpg
+data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132317.jpg,1,0.84332,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_26.jpg
+data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093321.jpg,1,0.918711,1,banana,1,one_banana_detection_with_mask,results/smoke/day2_detection/sample_27.jpg
+data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092523.jpg,0,0,1,bird,1,no_banana,results/smoke/day2_detection/sample_28.jpg
+data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131302.jpg,0,0,0,,0,no_banana,results/smoke/day2_detection/sample_29.jpg
+data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085026.jpg,0,0,1,bird,1,no_banana,results/smoke/day2_detection/sample_30.jpg
+data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134039.jpg,0,0,1,bird,1,no_banana,results/smoke/day2_detection/sample_31.jpg
+data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163828.jpg,0,0,1,bird,1,no_banana,results/smoke/day2_detection/sample_32.jpg

@@ -1,0 +1,11 @@
+{
+  "access_date": "2026-11-25",
+  "source_url": "https://www.kaggle.com/datasets/siavash93/freshness44",
+  "checked_api_urls": [
+    "https://www.kaggle.com/api/v1/datasets/view/siavash93/freshness44",
+    "https://www.kaggle.com/api/v1/datasets/list/siavash93/freshness44",
+    "https://www.kaggle.com/api/v1/datasets/download/siavash93/freshness44"
+  ],
+  "observed_http_status": 404,
+  "decision": "Unavailable through these public API routes in this session; no dataset license verified; do not infer from the paper license."
+}

@@ -27,6 +27,8 @@ data/processed/*
 runs/
 logs/
 results/smoke/
+results/day2/**/previews/
+*.part
 # Secrets
 .env
 .env.*

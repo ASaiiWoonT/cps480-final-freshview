@@ -15,6 +15,7 @@ PACKAGES = {
     "numpy": "numpy", "pandas": "pandas", "scikit-learn": "sklearn",
     "matplotlib": "matplotlib", "streamlit": "streamlit", "jupyter": "jupyter_core",
     "ipykernel": "ipykernel", "pytest": "pytest", "PyYAML": "yaml", "tqdm": "tqdm",
+    "requests": "requests",
 }
 
 

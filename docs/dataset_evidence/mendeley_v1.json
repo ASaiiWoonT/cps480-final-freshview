@@ -1,0 +1,23 @@
+{
+  "title": "Fresh and Rotten Fruits Dataset for Machine-Based Evaluation of Fruit Quality",
+  "doi": "10.17632/bdd69gyhv8.1",
+  "version": 1,
+  "authors": [
+    "Nusrat Sultana",
+    "Musfika Jahan",
+    "Mohammad Shorif Uddin"
+  ],
+  "access_date": "2026-11-25",
+  "source_url": "https://data.mendeley.com/datasets/bdd69gyhv8/1",
+  "metadata_url": "https://data.mendeley.com/public-api/datasets/bdd69gyhv8/files?folder_id=root&version=1",
+  "license": "CC BY 4.0",
+  "license_evidence": "License displayed on the source dataset page; not inferred from the article license.",
+  "selected_archive": {
+    "filename": "Original Image.zip",
+    "file_id": "de93ba06-6a58-45e3-913d-837b2ae52acb",
+    "size": 2794170228,
+    "sha256": "f89d67d4c4b24810bcd8406db877db6b1ac9834cea0b0cb56d65acebe59e66ff",
+    "download_url": "https://data.mendeley.com/public-files/datasets/bdd69gyhv8/files/de93ba06-6a58-45e3-913d-837b2ae52acb/file_downloaded"
+  },
+  "excluded_archive": "Augmented Image.zip; avoid pre-generated augmentation leakage."
+}

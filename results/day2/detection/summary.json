@@ -1,0 +1,13 @@
+{
+  "model": "models/yolo11n-seg.pt",
+  "device": "cuda",
+  "confidence_threshold": 0.25,
+  "image_size": 640,
+  "sample_count": 32,
+  "statuses": {
+    "one_banana_detection_with_mask": 19,
+    "multiple_bananas": 5,
+    "no_banana": 8
+  },
+  "interpretation": "Convenience-sample execution and failure review only, not detection accuracy or mask IoU. No mask ground truth; no dataset labels changed."
+}

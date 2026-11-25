@@ -15,11 +15,24 @@ git clone https://github.com/ASaiiWoonT/cps480-final-freshview.git
 cd cps480-final-freshview
 ```
 
-## Day 1 status
+## Day 2: datasets and inspection
+
+Banana data has been acquired and inspected locally: 400 original Mendeley images and 323 classified TR-6 RGB images. Source files are excluded from Git. After installing dependencies and activating `.venv`, teammates can reproduce the same subsets:
+
+```bash
+python scripts/download_dataset.py all
+python scripts/inspect_dataset.py
+python scripts/inspect_multiview.py
+python scripts/check_detection_samples.py --device auto
+```
+
+See [the Day 2 workflow](docs/day2_workflow.md), [findings and decisions](docs/day2_report.md), and [dataset sources/licenses](docs/dataset_sources.md). Images remain unsplit: repeated captures, multi-object scenes, label proxies and detection failures must inform Day 3 curation. TR-6 is currently a demonstration candidate, not an independent-item multiview benchmark.
+
+## Application status
 
 This is an environment and interface starter, not a trained freshness system. The app accepts 1–3 JPEG/PNG views of the same item and previews them. YOLO11 Nano Segmentation and ConvNeXt V2 Atto have separate verification scripts. The new two-class condition head requires training before its output can be used.
 
-Banana is the provisional first produce type, pending Day 2 dataset inspection. Labels are `apparently_fresh` (0) and `visible_spoilage` (1). Visual condition is not a food-safety or shelf-life determination.
+Banana is the selected initial produce type. Labels are `apparently_fresh` (0) and `visible_spoilage` (1); dataset mappings remain provisional until curation. Visual condition is not a food-safety or shelf-life determination.
 
 ## Start on this laptop
 
@@ -115,9 +128,9 @@ Keep `main` usable and propose changes through feature branches and pull request
 
 Do not upload `.venv/`, `.cache/`, datasets, model weights, credentials or temporary smoke results. Git applies `.gitignore` when selecting new files; GitHub's browser uploader does not apply your local ignore rules. Empty project folders are represented by `.gitkeep` files.
 
-## Day 2 next steps
+## Day 3 next steps
 
-Use `docs/dataset_sources.md` to record sources, licenses, exact labels and item/view grouping. Agree on supported produce and the interface with your teammate. Detect duplicates and split by physical item/source where applicable before training. Do not group unrelated photographs into artificial multiview items.
+Review repeated captures, ambiguous labels and multi-object scenes before preparing data. Establish defensible specimen/source groups, then create deterministic splits without leakage. Keep TR-6 separate from training until its demonstration/evaluation role is agreed. See [the Day 2 report](docs/day2_report.md); do not randomly split all 723 images together.
 
 ## Model references
 

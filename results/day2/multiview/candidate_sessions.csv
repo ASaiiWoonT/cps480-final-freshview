@@ -1,0 +1,20 @@
+candidate_session_id,start,end,image_count,label_counts,label_conflict,item_id,grouping_status
+candidate_20250911_101403,2025-09-11T10:14:03,2025-09-11T10:15:54,17,"{""Not_spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250911_142657,2025-09-11T14:26:57,2025-09-11T14:28:34,17,"{""Not_spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250911_163143,2025-09-11T16:31:43,2025-09-11T16:32:59,17,"{""Not_spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250912_091448,2025-09-12T09:14:48,2025-09-12T09:16:37,17,"{""Not_spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250912_132114,2025-09-12T13:21:14,2025-09-12T13:23:02,17,"{""Not_spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250912_162832,2025-09-12T16:28:32,2025-09-12T16:29:55,17,"{""Not_spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250913_093355,2025-09-13T09:33:55,2025-09-13T09:35:26,17,"{""Not_spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250913_140602,2025-09-13T14:06:02,2025-09-13T14:07:38,17,"{""Not_spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250913_161750,2025-09-13T16:17:50,2025-09-13T16:19:58,17,"{""Not_spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250915_092524,2025-09-15T09:25:24,2025-09-15T09:27:47,17,"{""Spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250915_132239,2025-09-15T13:22:39,2025-09-15T13:24:09,17,"{""Spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250916_093221,2025-09-16T09:32:21,2025-09-16T09:33:32,17,"{""Spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250916_164751,2025-09-16T16:47:51,2025-09-16T16:49:02,17,"{""Spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250917_092506,2025-09-17T09:25:06,2025-09-17T09:26:21,17,"{""Spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250917_131206,2025-09-17T13:12:06,2025-09-17T13:13:15,17,"{""Spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250917_162030,2025-09-17T16:20:30,2025-09-17T16:21:53,17,"{""Spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250918_085017,2025-09-18T08:50:17,2025-09-18T08:51:26,17,"{""Spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250918_134003,2025-09-18T13:40:03,2025-09-18T13:41:10,17,"{""Spoiled"": 17}",false,,timestamp_candidate_not_verified_item
+candidate_20250918_163718,2025-09-18T16:37:18,2025-09-18T16:38:28,17,"{""Spoiled"": 17}",false,,timestamp_candidate_not_verified_item
