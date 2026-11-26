@@ -128,9 +128,9 @@ Keep `main` usable and propose changes through feature branches and pull request
 
 Do not upload `.venv/`, `.cache/`, datasets, model weights, credentials or temporary smoke results. Git applies `.gitignore` when selecting new files; GitHub's browser uploader does not apply your local ignore rules. Empty project folders are represented by `.gitkeep` files.
 
-## Day 3 next steps
+## Day 3 prepared data
 
-Review repeated captures, ambiguous labels and multi-object scenes before preparing data. Establish defensible specimen/source groups, then create deterministic splits without leakage. Keep TR-6 separate from training until its demonstration/evaluation role is agreed. See [the Day 2 report](docs/day2_report.md); do not randomly split all 723 images together.
+Run `python scripts/prepare_dataset.py` after downloading the data. The [Day 3 guide](docs/day3.md) documents the reviewed split, the 19 multiview demo sets and their limitations.
 
 ## Model references
 
