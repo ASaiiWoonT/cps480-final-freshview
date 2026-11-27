@@ -1,0 +1,33 @@
+image_path,status,produce_type,confidence,crop_box,error
+data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (1).jpg,segmented,banana,0.9435074925422668,"(46, 160, 671, 1439)",
+data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (124).jpg,multiple_objects,,,,Photograph one produce item at a time.
+data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (150).jpg,multiple_objects,,,,Photograph one produce item at a time.
+data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (176).jpg,multiple_objects,,,,Photograph one produce item at a time.
+data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (21).jpg,segmented,banana,0.8125786185264587,"(152, 157, 985, 1544)",
+data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (47).jpg,segmented,banana,0.9105230569839478,"(60, 152, 1059, 562)",
+data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (73).jpg,segmented,banana,0.9378125667572021,"(119, 105, 889, 598)",
+data/raw/mendeley_banana/Original Image/FreshBanana/FreshBanana (99).jpg,segmented,banana,0.847115159034729,"(139, 234, 1487, 601)",
+data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (1).jpg,segmented,banana,0.7672358155250549,"(627, 359, 3528, 2747)",
+data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (124).jpg,no_produce_detected,,,,No candidate produce detected.
+data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (150).jpg,segmented,banana,0.4857071340084076,"(263, 421, 2612, 1038)",
+data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (176).jpg,segmented,banana,0.869805097579956,"(168, 398, 2868, 1159)",
+data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (21).jpg,multiple_objects,,,,Photograph one produce item at a time.
+data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (47).jpg,multiple_objects,,,,Photograph one produce item at a time.
+data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (73).jpg,no_produce_detected,,,,No candidate produce detected.
+data/raw/mendeley_banana/Original Image/RottenBanana/RottenBanana (99).jpg,no_produce_detected,,,,No candidate produce detected.
+data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_101403.jpg,segmented,banana,0.9534164667129517,"(270, 1157, 2627, 2309)",
+data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_142741.jpg,segmented,banana,0.9405868649482727,"(445, 1052, 2631, 3116)",
+data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250911_163228.jpg,segmented,banana,0.9365007281303406,"(274, 983, 2549, 2653)",
+data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_091619.jpg,segmented,banana,0.9366852045059204,"(449, 1213, 2823, 2759)",
+data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250912_162837.jpg,segmented,banana,0.9563587307929993,"(439, 1321, 2364, 2895)",
+data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_093443.jpg,segmented,banana,0.9397551417350769,"(398, 1027, 2923, 2307)",
+data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_140713.jpg,segmented,banana,0.8859899640083313,"(573, 1169, 2246, 3129)",
+data/raw/tr6_banana/TR-6/Classified/Banana/Not_spoiled/sRGB_images/20250913_161958.jpg,segmented,banana,0.9245038628578186,"(87, 797, 2402, 2204)",
+data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_092524.jpg,segmented,banana,0.9389088749885559,"(117, 869, 2502, 2085)",
+data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250915_132317.jpg,segmented,banana,0.8433195948600769,"(185, 1108, 2882, 2398)",
+data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250916_093321.jpg,segmented,banana,0.9187108278274536,"(292, 1139, 2791, 2404)",
+data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_092523.jpg,no_produce_detected,,,,No candidate produce detected.
+data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250917_131302.jpg,no_produce_detected,,,,No candidate produce detected.
+data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_085026.jpg,no_produce_detected,,,,No candidate produce detected.
+data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_134039.jpg,no_produce_detected,,,,No candidate produce detected.
+data/raw/tr6_banana/TR-6/Classified/Banana/Spoiled/sRGB_images/20250918_163828.jpg,no_produce_detected,,,,No candidate produce detected.

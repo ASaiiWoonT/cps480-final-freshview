@@ -28,6 +28,10 @@ python scripts/check_detection_samples.py --device auto
 
 See [the Day 2 workflow](docs/day2_workflow.md), [findings and decisions](docs/day2_report.md), and [dataset sources/licenses](docs/dataset_sources.md). Images remain unsplit: repeated captures, multi-object scenes, label proxies and detection failures must inform Day 3 curation. TR-6 is currently a demonstration candidate, not an independent-item multiview benchmark.
 
+## Day 4 detection and segmentation
+
+See the [Day 4 guide](docs/day4.md) for the one-photo command, teammate API, and reviewed crop examples by sample number.
+
 ## Application status
 
 This is an environment and interface starter, not a trained freshness system. The app accepts 1–3 JPEG/PNG views of the same item and previews them. YOLO11 Nano Segmentation and ConvNeXt V2 Atto have separate verification scripts. The new two-class condition head requires training before its output can be used.

@@ -1,6 +1,6 @@
 # Proposed FreshView interface
 
-Day 1 proposal for both teammates to review. Only the `not_ready`/`invalid_image` stub is implemented.
+The complete condition assessment is pending classifier integration. The implemented [Day 4 extraction stage](day4.md) accepts PIL RGB and returns the aligned mask and crop with stage status `segmented`.
 
 ## Single-image pipeline
 
